@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, type RefObject } from 'react';
-import { Keyboard, type LayoutChangeEvent, type ScrollViewInstance } from 'react-native';
+import { Keyboard, TextInput, type LayoutChangeEvent, type ScrollViewInstance } from 'react-native';
 
 import { space } from '@/theme';
 
@@ -31,9 +31,11 @@ export function useKeepAboveKeyboard(scrollRef: RefObject<ScrollViewInstance | n
     (event: LayoutChangeEvent) => {
       const { y, height } = event.nativeEvent.layout;
       blockBottom.current = y + height;
-      // The error message makes the block taller; keep the button visible.
+      // The error message makes the block taller; keep the button visible. Skip when no field
+      // is focused: the previous screen's keyboard may still be closing when this one mounts.
       const keyboard = Keyboard.metrics();
-      if (Keyboard.isVisible() && keyboard) reveal(keyboard.screenY);
+      const typing = TextInput.State.currentlyFocusedInput() != null;
+      if (typing && Keyboard.isVisible() && keyboard) reveal(keyboard.screenY);
     },
     [reveal],
   );
