@@ -29,7 +29,7 @@ Out:
 ### Screen 1: route selection (`src/app/index.tsx`)
 
 - Location is optional and must never block the flow. The player can always pick a city from the dropdown instead.
-- "Odnajdź najbliższą tajemnicę" stays visible. `expo-location` is not installed, so in this version the button is inactive (see open questions).
+- "Odnajdź najbliższą tajemnicę" asks for foreground location only after the player taps it, then selects the nearest city in the dropdown (decided 2026-11-10, replaces the earlier "inactive button" decision). If permission is denied or the position cannot be read, a short message points the player to the dropdown.
 - The route list shows routes for the selected city. Default city: Kraków, so the playable route (Tajemnica Zegarmistrza) is visible on first launch.
 - "Szczegóły" goes to `/access?gameId=…`.
 - Routes without steps (Widmo Ekspresu, Archiwum Alchemika) look like any other route on the list.
@@ -55,7 +55,6 @@ Out:
 
 ## Open questions
 
-- Optional location: when should `expo-location` be added, and should "Odnajdź najbliższą tajemnicę" pick the nearest city or sort routes by distance?
 - City filter vs design: the design shows all three routes with Warszawa selected. Should "Najpopularniejsze trasy" ignore the city filter?
 - Progress persistence: should a later version resume an unfinished route after the app restarts?
 - Hints: is a hint system (with or without a penalty) planned for a later version?
