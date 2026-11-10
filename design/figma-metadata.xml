@@ -1,0 +1,2386 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <frame id="5:1586" name="EnigmaHomepage" x="0" y="-2" width="390" height="3461.39013671875">
+    <frame id="5:1587" name="EkranTytulowy" x="0" y="0" width="390" height="744.5900268554688">
+      <frame id="5:1588" name="ObrazBohater" x="0" y="0" width="390" height="744.5900268554688">
+        <frame id="5:1589" name="Cave Background" x="0" y="0" width="390" height="744.5900268554688" />
+        <rounded-rectangle id="5:1590" name="Gradient" x="0" y="0" width="390" height="744.5900268554688" />
+      </frame>
+      <frame id="5:1591" name="UkryteSwiaty" x="-24" y="214.29501342773438" width="438" height="316">
+        <frame id="5:1592" name="OdkrywajUkryte" x="32" y="0" width="374" height="316">
+          <frame id="10:6" name="Frame 4" x="33" y="33" width="308" height="250">
+            <frame id="10:5" name="Frame 3" x="0" y="0" width="308" height="174">
+              <frame id="5:1593" name="Tytul" x="0" y="0" width="308" height="113">
+                <text id="5:1594" name="Text" x="61.91999816894531" y="0" width="184.16000366210938" height="113" />
+              </frame>
+              <text id="5:1595" name="motto" x="6.029998779296875" y="128" width="295.94000244140625" height="46" />
+            </frame>
+            <frame id="5:1596" name="Guzik Zacznij Przygode[action:navigate:Enigma - Wybór Tras]" x="38.38999938964844" y="206" width="231.22000122070312" height="44">
+              <text id="5:1597" name="Text" x="42" y="14" width="147.22000122070312" height="16" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:1598" name="Kategorie" x="0" y="744.5900268554688" width="390" height="1926.800048828125">
+      <frame id="5:1599" name="NagłowekKategorie" x="0" y="0" width="390" height="128">
+        <frame id="5:1600" name="NapisKategorie" x="0" y="48" width="390" height="20">
+          <text id="5:1601" name="Text" x="139.85000610351562" y="0" width="110.30000305175781" height="20" />
+        </frame>
+        <rounded-rectangle id="5:1602" name="Kreska" x="171" y="76" width="48" height="4" />
+      </frame>
+      <frame id="5:1603" name="Feature Cards Section" x="0" y="128" width="390" height="1489.800048828125">
+        <frame id="5:1604" name="KategorieLokalne" x="24" y="0" width="342" height="460.6000061035156">
+          <frame id="5:1605" name="LokalneObraz" x="1" y="1" width="340" height="256">
+            <frame id="5:1606" name="ObrazLokalne" x="0" y="0" width="340" height="256" />
+            <rounded-rectangle id="5:1607" name="Gradient" x="0" y="0" width="340" height="256" />
+          </frame>
+          <frame id="5:1608" name="LokalneTeksty" x="1" y="257" width="340" height="202.60000610351562">
+            <frame id="10:7" name="Frame 5" x="24" y="24" width="292" height="154.60000610351562">
+              <frame id="5:1609" name="LokalneTytuł" x="0" y="0" width="292" height="28">
+                <text id="5:1610" name="Lokalne Gry Terenowe" x="0" y="0" width="292" height="28" />
+              </frame>
+              <frame id="5:1611" name="LokalneOpis" x="0" y="43" width="292" height="54.599998474121094">
+                <text id="5:1612" name="Zamień zwiedzanie miasta w pełną zagadek przygodę." x="0" y="0" width="292" height="46" />
+              </frame>
+              <frame id="5:1613" name="LokalneOdkryj" x="0" y="112.5999984741211" width="292" height="42">
+                <text id="5:1614" name="Text" x="85.94499969482422" y="13" width="120.11000061035156" height="16" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1615" name="KategorieArchiwum" x="24" y="500.6000061035156" width="342" height="460.6000061035156">
+          <frame id="10:10" name="Frame 7" x="1" y="1" width="340" height="458.6000061035156">
+            <frame id="5:1616" name="ObrazArchiwum" x="0" y="0" width="340" height="256">
+              <frame id="5:1617" name="Archiwum Kryminalne" x="0" y="0" width="340" height="256" />
+              <rounded-rectangle id="5:1618" name="Gradient" x="0" y="0" width="340" height="256" />
+            </frame>
+            <frame id="5:1619" name="ArchiwumTeksty" x="0" y="256" width="340" height="202.60000610351562">
+              <frame id="10:9" name="Frame 6" x="24" y="24" width="292" height="154.60000610351562">
+                <frame id="5:1620" name="ArchiwumTytuł" x="0" y="0" width="292" height="28">
+                  <text id="5:1621" name="Archiwum Kryminalne" x="0" y="0" width="292" height="28" />
+                </frame>
+                <frame id="5:1622" name="ArchiwumOpis" x="0" y="43" width="292" height="54.599998474121094">
+                  <text id="5:1623" name="Wciel się w detektywa, zbadaj akta i rozwiąż mroczną sprawę." x="0" y="0" width="292" height="46" />
+                </frame>
+                <frame id="5:1624" name="ArchiwumGuzik" x="0" y="112.5999984741211" width="292" height="42">
+                  <text id="5:1625" name="Text" x="85.94499969482422" y="13" width="120.11000061035156" height="16" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1626" name="KategorieAlternatywne" x="24" y="1001.2000122070312" width="342" height="488.6000061035156">
+          <frame id="10:14" name="Frame 9" x="1" y="1" width="340" height="486.6000061035156">
+            <frame id="5:1627" name="AlternatywyObraz" x="0" y="0" width="340" height="256">
+              <frame id="5:1628" name="Alternatywne Rzeczywistości" x="0" y="0" width="340" height="256" />
+              <rounded-rectangle id="5:1629" name="Gradient" x="0" y="0" width="340" height="256" />
+            </frame>
+            <frame id="5:1630" name="AlternatywyOpis" x="0" y="256" width="340" height="230.60000610351562">
+              <frame id="10:11" name="Frame 8" x="24" y="24" width="292" height="182.60000610351562">
+                <frame id="5:1631" name="AlternatywnyTytul" x="0" y="0" width="292" height="56">
+                  <text id="5:1632" name="Alternatywne Rzeczywistości" x="0" y="0" width="292" height="56" />
+                </frame>
+                <frame id="5:1633" name="AlternatywnyOpis" x="0" y="71" width="292" height="54.599998474121094">
+                  <text id="5:1634" name="Zanurz się w grze w której zacierają się granice rzeczywistości!" x="0" y="0" width="292" height="46" />
+                </frame>
+                <frame id="5:1635" name="AlternatywneGuzik" x="0" y="140.60000610351562" width="292" height="42">
+                  <text id="5:1636" name="Text" x="85.94499969482422" y="13" width="120.11000061035156" height="16" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:1637" name="Statystyki" x="0" y="1617.800048828125" width="390" height="181">
+        <frame id="10:17" name="Frame 12" x="24" y="80" width="342" height="101">
+          <frame id="5:1638" name="LiczbaGraczy" x="0" y="0" width="163" height="101">
+            <frame id="10:15" name="Frame 10" x="25" y="25" width="113" height="51">
+              <frame id="5:1639" name="IleGraczy" x="0" y="0" width="113" height="32">
+                <text id="5:1640" name="Text" x="16.915000915527344" y="0" width="79.16999816894531" height="32" />
+              </frame>
+              <frame id="5:1641" name="Uzytkownicy" x="0" y="36" width="113" height="15">
+                <text id="5:1642" name="Text" x="5.759998321533203" y="0" width="101.4800033569336" height="15" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1643" name="IleGier" x="179" y="0" width="163" height="101">
+            <frame id="10:16" name="Frame 11" x="25" y="25" width="113" height="51">
+              <frame id="5:1644" name="LiczbaGier" x="0" y="0" width="113" height="32">
+                <text id="5:1645" name="Text" x="36.900001525878906" y="0" width="39.20000076293945" height="32" />
+              </frame>
+              <frame id="5:1646" name="UnikalnychGier" x="0" y="36" width="113" height="15">
+                <text id="5:1647" name="Text" x="1.2400016784667969" y="0" width="110.5199966430664" height="15" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:1648" name="Footer" x="0" y="2671.39013671875" width="390" height="790">
+      <frame id="5:1649" name="Container" x="32" y="48" width="326" height="632">
+        <frame id="5:1650" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:1651" name="Footer Description" x="0" y="72" width="326" height="160">
+          <text id="5:1652" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="160" />
+        </frame>
+        <frame id="5:1653" name="Footer Links Grid" x="0" y="264" width="326" height="144">
+          <frame id="5:1654" name="Container" x="0" y="16" width="147" height="112">
+            <frame id="5:1657" name="List" x="0" y="0" width="147" height="112">
+              <frame id="10:19" name="Frame 14" x="0" y="0" width="147" height="112">
+                <frame id="5:1655" name="Heading 4" x="0" y="0" width="147" height="20">
+                  <text id="5:1656" name="ENIGMA" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="10:18" name="Frame 13" x="0" y="36" width="147" height="76">
+                  <frame id="5:1658" name="Item" x="0" y="0" width="147" height="20">
+                    <text id="5:1659" name="O nas" x="0" y="0" width="147" height="20" />
+                  </frame>
+                  <frame id="5:1660" name="Item" x="0" y="28" width="147" height="20">
+                    <text id="5:1661" name="Inne projekty" x="0" y="0" width="147" height="20" />
+                  </frame>
+                  <frame id="5:1662" name="Item" x="0" y="56" width="147" height="20">
+                    <text id="5:1663" name="Współpraca" x="0" y="0" width="147" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1664" name="Container" x="179" y="16" width="147" height="112">
+            <frame id="5:1667" name="List" x="0" y="0" width="147" height="112">
+              <frame id="10:21" name="Frame 16" x="0" y="0" width="147" height="112">
+                <frame id="5:1665" name="Heading 4" x="0" y="0" width="147" height="20">
+                  <text id="5:1666" name="POMOC" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="10:20" name="Frame 15" x="0" y="36" width="147" height="76">
+                  <frame id="5:1668" name="Item" x="0" y="0" width="147" height="20">
+                    <text id="5:1669" name="Kontakt" x="0" y="0" width="147" height="20" />
+                  </frame>
+                  <frame id="5:1670" name="Item" x="0" y="28" width="147" height="20">
+                    <text id="5:1671" name="Regulamin" x="0" y="0" width="147" height="20" />
+                  </frame>
+                  <frame id="5:1672" name="Item" x="0" y="56" width="147" height="20">
+                    <text id="5:1673" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1674" name="Social Icons" x="0" y="440" width="326" height="101">
+          <frame id="5:1675" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:1676" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:1677" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:1678" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:1679" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1681" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:1682" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1684" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:1685" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1687" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:1688" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1690" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:1691" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1693" name="Copyright Area" x="0" y="573" width="326" height="59">
+          <frame id="5:1694" name="Container" x="0" y="16" width="326" height="20">
+            <text id="5:1695" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:1696" name="Container" x="0" y="44" width="326" height="15">
+            <text id="5:1697" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:633" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:19" name="image 1" x="24" y="16" width="140" height="27" />
+    </frame>
+    <frame id="8:334" name="DolnyPasek" x="0" y="3381" width="390" height="80">
+      <frame id="8:335" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:336" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:337" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:338" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:339" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:340" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:341" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:342" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:343" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:344" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:345" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:346" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:347" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:348" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:349" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:350" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:1728" name="Enigma - Archiwum Kryminalne (with New Routes)" x="426" y="-2" width="390" height="2596.39990234375">
+    <frame id="5:1729" name="Main" x="0" y="0" width="390" height="1812">
+      <frame id="5:1732" name="Hero Section" x="0" y="66.25" width="390" height="674">
+        <rounded-rectangle id="5:1733" name="Atmospheric background element" x="128" y="-68" width="256" height="256" />
+        <frame id="5:1734" name="Container" x="24" y="40" width="342" height="570">
+          <frame id="5:1735" name="Heading 1" x="0" y="0" width="342" height="72">
+            <text id="5:1736" name="ARCHIWUM KRYMINALNE" x="0" y="0" width="342" height="72" />
+          </frame>
+          <frame id="5:1737" name="Paragraph" x="0" y="87" width="319" height="472.5">
+            <text id="5:1738" name="Wciel się w detektywa rozwiązując zagadkę kryminalną. Oddajemy w Twoje ręce nierozwiązane sprawy i mroczne sekrety. Czas, abyś to Ty poprowadził śledztwo." x="0" y="0" width="309" height="147" />
+            <text id="5:1739" name="Nasza gra to wyjątkowe i w pełni immersyjne doświadczenie detektywistyczne. Zamiast planszy i pionków, dostajesz pod drzwi realistyczną teczkę z aktami policyjnymi. Twoim zadaniem jest przeanalizowanie dowodów, znalezienie motywu i wskazanie winnego!" x="0" y="175.5" width="319" height="264" />
+          </frame>
+          <frame id="5:1740" name="Button" x="0" y="574.5" width="342" height="54">
+            <text id="5:1741" name="Text" x="77.40499877929688" y="17" width="187.19000244140625" height="20" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:1730" name="Difficulty Selection" x="0" y="751.25" width="390" height="4">
+        <rounded-rectangle id="5:1731" name="Background" x="24" y="0" width="64" height="4" />
+      </frame>
+      <frame id="5:1742" name="Section" x="0" y="766.25" width="390" height="508">
+        <frame id="5:1743" name="Container" x="24" y="0" width="342" height="20">
+          <frame id="5:1744" name="Container" x="0" y="4.458333492279053" width="11.666666984558105" height="11.083333015441895">
+            <vector id="5:1745" name="Icon" x="0" y="0" width="11.666666984558105" height="11.083333015441895" />
+          </frame>
+          <frame id="5:1746" name="Heading 2" x="19.666667938232422" y="0" width="255.19000244140625" height="20">
+            <text id="5:1747" name="Text" x="0" y="0" width="255.19000244140625" height="20" />
+          </frame>
+        </frame>
+        <frame id="5:1748" name="Container" x="24" y="44" width="342" height="440">
+          <frame id="5:1749" name="Button - Simple" x="0" y="0" width="308" height="98">
+            <frame id="5:1750" name="Container" x="25" y="25" width="83.61000061035156" height="48">
+              <frame id="5:1751" name="Container" x="0" y="0" width="83.61000061035156" height="16">
+                <text id="5:1752" name="Text" x="0" y="0" width="68.62999725341797" height="16" />
+              </frame>
+              <frame id="5:1753" name="Heading 3" x="0" y="20" width="83.61000061035156" height="28">
+                <text id="5:1754" name="Text" x="0" y="0" width="83.61000061035156" height="28" />
+              </frame>
+            </frame>
+            <frame id="5:1755" name="Border" x="243" y="29" width="40" height="40">
+              <frame id="5:1756" name="Container" x="12" y="12" width="16" height="16">
+                <vector id="5:1757" name="Icon" x="0" y="0" width="16" height="16" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1758" name="Button - Medium" x="0" y="114" width="308" height="98">
+            <frame id="5:1759" name="Container" x="25" y="25" width="93.11000061035156" height="48">
+              <frame id="5:1760" name="Container" x="0" y="0" width="93.11000061035156" height="16">
+                <text id="5:1761" name="Text" x="0" y="0" width="71.11000061035156" height="16" />
+              </frame>
+              <frame id="5:1762" name="Heading 3" x="0" y="20" width="93.11000061035156" height="28">
+                <text id="5:1763" name="Text" x="0" y="0" width="93.11000061035156" height="28" />
+              </frame>
+            </frame>
+            <frame id="5:1764" name="Border" x="243" y="29" width="40" height="40">
+              <frame id="5:1765" name="Container" x="12" y="12" width="16" height="16">
+                <vector id="5:1766" name="Icon" x="0" y="0" width="16" height="16" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1767" name="Button - Hard" x="0" y="228" width="308" height="98">
+            <frame id="5:1768" name="Container" x="25" y="25" width="88.55999755859375" height="48">
+              <frame id="5:1769" name="Container" x="0" y="0" width="88.55999755859375" height="16">
+                <text id="5:1770" name="Text" x="0" y="0" width="71.05999755859375" height="16" />
+              </frame>
+              <frame id="5:1771" name="Heading 3" x="0" y="20" width="88.55999755859375" height="28">
+                <text id="5:1772" name="Text" x="0" y="0" width="88.55999755859375" height="28" />
+              </frame>
+            </frame>
+            <frame id="5:1773" name="Border" x="243" y="29" width="40" height="40">
+              <frame id="5:1774" name="Container" x="12" y="12" width="16" height="16">
+                <vector id="5:1775" name="Icon" x="0" y="0" width="16" height="16" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1776" name="Button - Extreme" x="0" y="342" width="308" height="98">
+            <rounded-rectangle id="5:1777" name="Premium glow effect for extreme" x="1" y="1.25" width="413" height="96" />
+            <frame id="5:1778" name="Container" x="25" y="25" width="72.22000122070312" height="48">
+              <frame id="5:1779" name="Container" x="0" y="0" width="72.22000122070312" height="16">
+                <text id="5:1780" name="Text" x="0" y="0" width="72.22000122070312" height="16" />
+              </frame>
+              <frame id="5:1781" name="Heading 3" x="0" y="20" width="72.22000122070312" height="28">
+                <text id="5:1782" name="Text" x="0" y="0" width="32.470001220703125" height="28" />
+              </frame>
+            </frame>
+            <frame id="5:1783" name="Overlay+Border" x="243" y="29" width="40" height="40">
+              <frame id="5:1784" name="Container" x="9" y="10.5" width="22" height="19">
+                <vector id="5:1785" name="Icon" x="0" y="0" width="22" height="19" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:1786" name="Section" x="0" y="1285.25" width="390" height="460.5">
+        <rounded-rectangle id="5:1787" name="Background" x="24" y="24" width="64" height="4" />
+        <frame id="5:1788" name="Container" x="24" y="44" width="342" height="36">
+          <frame id="5:1789" name="Container" x="0" y="20.45833396911621" width="11.666666984558105" height="11.083333015441895">
+            <vector id="5:1790" name="Icon" x="0" y="0" width="11.666666984558105" height="11.083333015441895" />
+          </frame>
+          <frame id="5:1791" name="Heading 2" x="19.666667938232422" y="16" width="110.69999694824219" height="20">
+            <text id="5:1792" name="Text" x="0" y="0" width="110.69999694824219" height="20" />
+          </frame>
+        </frame>
+        <frame id="5:1793" name="Container" x="24" y="96" width="342" height="316.5">
+          <frame id="5:1794" name="Background+Border" x="0" y="8" width="256" height="284.5">
+            <frame id="5:1795" name="Container" x="1" y="1" width="254" height="160">
+              <frame id="5:1796" name="Mroczna Uliczka" x="0" y="0" width="254" height="160" />
+              <rounded-rectangle id="5:1797" name="Gradient" x="0" y="0" width="254" height="160" />
+              <frame id="5:1798" name="Background" x="158.25" y="16" width="79.75" height="23">
+                <text id="5:1799" name="Text" x="12" y="4" width="55.75" height="15" />
+              </frame>
+            </frame>
+            <frame id="5:1800" name="Container" x="1" y="161" width="254" height="123">
+              <frame id="5:1801" name="Heading 3" x="16" y="16" width="222" height="24">
+                <text id="5:1802" name="MROCZNA ULICZKA" x="0" y="0" width="222" height="24" />
+              </frame>
+              <frame id="5:1803" name="Container" x="16" y="48" width="222" height="59">
+                <text id="5:1804" name="Odkryj sekrety skryte w cieniu starych kamienic. Czy odważysz się wejść głębiej?" x="0" y="0" width="222" height="59" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1805" name="Background+Border" x="272" y="8" width="256" height="284.5">
+            <frame id="5:1806" name="Container" x="1" y="1" width="254" height="160">
+              <frame id="5:1807" name="Zaginiony List" x="0" y="0" width="254" height="160" />
+              <rounded-rectangle id="5:1808" name="Gradient" x="0" y="0" width="254" height="160" />
+              <frame id="5:1809" name="Background" x="158.25" y="16" width="79.75" height="23">
+                <text id="5:1810" name="Text" x="12" y="4" width="55.75" height="15" />
+              </frame>
+            </frame>
+            <frame id="5:1811" name="Container" x="1" y="161" width="254" height="123">
+              <frame id="5:1812" name="Heading 3" x="16" y="16" width="222" height="24">
+                <text id="5:1813" name="ZAGINIONY LIST" x="0" y="0" width="222" height="24" />
+              </frame>
+              <frame id="5:1814" name="Container" x="16" y="48" width="222" height="59">
+                <text id="5:1815" name="Ślad prowadzi do zapomnianego archiwum. Rozwiąż zagadkę sprzed lat." x="0" y="0" width="222" height="59" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1816" name="Background+Border" x="544" y="8" width="256" height="284.5">
+            <frame id="5:1817" name="Container" x="1" y="1" width="254" height="160">
+              <frame id="5:1818" name="Kod Enigmy" x="0" y="0" width="254" height="160" />
+              <rounded-rectangle id="5:1819" name="Gradient" x="0" y="0" width="254" height="160" />
+              <frame id="5:1820" name="Background" x="158.25" y="16" width="79.75" height="23">
+                <text id="5:1821" name="Text" x="12" y="4" width="55.75" height="15" />
+              </frame>
+            </frame>
+            <frame id="5:1822" name="Container" x="1" y="161" width="254" height="103">
+              <frame id="5:1823" name="Heading 3" x="16" y="16" width="222" height="24">
+                <text id="5:1824" name="KOD ENIGMY" x="0" y="0" width="222" height="24" />
+              </frame>
+              <frame id="5:1825" name="Container" x="16" y="48" width="222" height="39">
+                <text id="5:1826" name="Zaszyfrowana wiadomość czeka na odczytanie. Czas ucieka." x="0" y="0" width="222" height="39" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1827" name="Container" x="24" y="428.5" width="342" height="8">
+          <rounded-rectangle id="5:1828" name="Background" x="135" y="0" width="8" height="8" />
+          <rounded-rectangle id="5:1829" name="Overlay" x="151" y="0" width="8" height="8" />
+          <rounded-rectangle id="5:1830" name="Overlay" x="167" y="0" width="8" height="8" />
+          <rounded-rectangle id="5:1831" name="Overlay" x="183" y="0" width="8" height="8" />
+          <rounded-rectangle id="5:1832" name="Overlay" x="199" y="0" width="8" height="8" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:1833" name="Footer from SCREEN_5" x="0" y="1812" width="390" height="784.4000244140625">
+      <frame id="5:1834" name="Container" x="32" y="48" width="326" height="608.4000244140625">
+        <frame id="5:1835" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:1836" name="Footer Description" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:1837" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:1838" name="Footer Links Grid" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:1839" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:1840" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:1841" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:1842" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:1843" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:1844" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:1845" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:1846" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:1847" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:1848" name="Współpraca" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1849" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:1850" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:1851" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:1852" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:1853" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:1854" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:1855" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:1856" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:1857" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:1858" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1859" name="Social Icons / Follow Us Section" x="0" y="416.39996337890625" width="326" height="101">
+          <frame id="5:1860" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:1861" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:1862" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:1863" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:1864" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1866" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:1867" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1869" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:1870" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1872" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:1873" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:1875" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:1876" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1878" name="Copyright Area" x="0" y="548.7999267578125" width="326" height="59.599998474121094">
+          <frame id="5:1879" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:1880" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:1881" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+            <text id="5:1882" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:623" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:17" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:625" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:626" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:627" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:628" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:629" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:630" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:631" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:357" name="BottomNavBar" x="0" y="2515.75" width="390" height="80">
+      <frame id="8:358" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:359" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:360" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:361" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:362" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:363" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:364" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:365" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:366" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:367" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:368" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:369" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:370" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:371" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:372" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:373" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:1909" name="Enigma - Profil (Unified Footer)" x="852" y="-2" width="390" height="1017">
+    <frame id="5:1910" name="Main" x="0" y="0" width="390" height="1005.7999877929688">
+      <frame id="5:1911" name="Hero Section" x="0" y="0" width="390" height="400.79998779296875">
+        <rounded-rectangle id="5:1912" name="Image" x="0" y="0" width="390" height="400.79998779296875" />
+        <rounded-rectangle id="5:1913" name="Gradient" x="0" y="0" width="390" height="400.79998779296875" />
+        <frame id="5:1914" name="Container" x="51.44500732421875" y="170.39999389648438" width="287.1099853515625" height="60">
+          <frame id="5:1915" name="Heading 1" x="16" y="0" width="255.11000061035156" height="40">
+            <text id="5:1916" name="Text" x="0" y="0" width="255.11000061035156" height="40" />
+          </frame>
+          <rounded-rectangle id="5:1917" name="Background" x="95.55500030517578" y="56" width="96" height="4" />
+        </frame>
+      </frame>
+      <frame id="5:1918" name="Login Section" x="24" y="320.79998779296875" width="342" height="589">
+        <rounded-rectangle id="5:1919" name="Overlay+Shadow" x="0" y="0" width="342" height="589" />
+        <frame id="5:1920" name="Heading 2" x="33" y="33" width="276" height="32">
+          <text id="5:1921" name="Text" x="71.08000183105469" y="0" width="133.83999633789062" height="32" />
+        </frame>
+        <frame id="5:1922" name="Form" x="33" y="89" width="276" height="262">
+          <frame id="5:1923" name="Container" x="0" y="8" width="276" height="75">
+            <frame id="5:1924" name="Label" x="0" y="0" width="276" height="16">
+              <text id="5:1925" name="EMAIL" x="0" y="0" width="276" height="16" />
+            </frame>
+            <frame id="5:1926" name="Email [component:input-text]" x="0" y="24" width="276" height="51">
+              <frame id="5:1927" name="Container" x="17" y="15" width="242" height="20">
+                <text id="5:1928" name="twoj@email.com" x="0" y="0" width="242" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1929" name="Container" x="0" y="107" width="276" height="75">
+            <frame id="5:1930" name="Container" x="0" y="0" width="276" height="16">
+              <frame id="5:1931" name="Label" x="0" y="0" width="50.09000015258789" height="16">
+                <text id="5:1932" name="Text" x="0" y="0" width="50.09000015258789" height="16" />
+              </frame>
+              <frame id="5:1933" name="Link" x="157.02000427246094" y="0" width="118.9800033569336" height="16">
+                <text id="5:1934" name="Text" x="0" y="0" width="118.9800033569336" height="16" />
+              </frame>
+            </frame>
+            <frame id="5:1935" name="Hasło [component:input-password]" x="0" y="24" width="276" height="51">
+              <frame id="5:1936" name="Container" x="17" y="15" width="242" height="20">
+                <text id="5:1937" name="••••••••" x="0" y="0" width="242" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:1938" name="Button" x="0" y="206" width="276" height="56">
+            <rounded-rectangle id="5:1939" name="Zaloguj [action:submit]" x="0" y="0" width="276" height="56" />
+            <text id="5:1940" name="Text" x="65.25" y="16" width="145.5" height="24" />
+          </frame>
+        </frame>
+        <frame id="5:1941" name="Container" x="33" y="375" width="276" height="31">
+          <rounded-rectangle id="5:1942" name="Horizontal Divider" x="0" y="23" width="87.9800033569336" height="1" />
+          <frame id="5:1943" name="Container" x="103.9800033569336" y="16" width="68.0199966430664" height="15">
+            <text id="5:1944" name="Text" x="0" y="0" width="68.0199966430664" height="15" />
+          </frame>
+          <rounded-rectangle id="5:1945" name="Horizontal Divider" x="188" y="23" width="88" height="1" />
+        </frame>
+        <frame id="5:1946" name="Container" x="33" y="430" width="276" height="46">
+          <frame id="5:1947" name="Google [action:openurl:[https://accounts.google.com](https://accounts.google.com)" x="0" y="0" width="130" height="46">
+            <frame id="5:1948" name="SVG" x="20.15999984741211" y="13" width="20" height="20" />
+            <frame id="5:1953" name="Container" x="52.15999984741211" y="15" width="57.66999816894531" height="16">
+              <text id="5:1954" name="Text" x="0" y="0" width="57.66999816894531" height="16" />
+            </frame>
+          </frame>
+          <frame id="5:1955" name="Facebook [action:openurl:[https://www.facebook.com](https://www.facebook.com)]" x="146" y="0" width="130" height="46">
+            <frame id="5:1956" name="SVG" x="10.859999656677246" y="13" width="20" height="20" />
+            <frame id="5:1958" name="Container" x="42.86000061035156" y="15" width="76.2699966430664" height="16">
+              <text id="5:1959" name="Text" x="0" y="0" width="76.2699966430664" height="16" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:1960" name="Container" x="33" y="500" width="276" height="56">
+          <text id="5:1961" name="Text" x="10.329999923706055" y="16" width="172.02000427246094" height="20" />
+          <frame id="5:1962" name="Link" x="127.75" y="17" width="137.9199981689453" height="38">
+            <text id="5:1963" name="Text" x="58.59000015258789" y="-1" width="79.33000183105469" height="20" />
+            <text id="5:1964" name="Text" x="0" y="19" width="20.479999542236328" height="20" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:613" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:3" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:615" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:616" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:617" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:618" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:619" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:620" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:621" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:375" name="BottomNavBar" x="0" y="936.800048828125" width="390" height="80">
+      <frame id="8:376" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:377" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:378" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:379" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:380" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:381" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:382" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:383" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:384" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:385" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:386" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:387" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:388" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:389" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:390" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:391" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:1991" name="Enigma - O nas (Homepage Footer Sync)" x="1278" y="-2" width="390" height="5725.5966796875">
+    <frame id="5:1992" name="Main" x="0" y="0" width="390" height="4943.5966796875">
+      <frame id="5:1993" name="Hero Section" x="0" y="48" width="390" height="271">
+        <frame id="5:1994" name="Container" x="40.38499450683594" y="71.5" width="309.2300109863281" height="128">
+          <frame id="5:1995" name="Heading 1" x="24" y="0" width="261.2300109863281" height="48">
+            <text id="5:1996" name="Text" x="53.83500671386719" y="0" width="153.55999755859375" height="48" />
+          </frame>
+          <frame id="5:1997" name="Container" x="24" y="64" width="261.2300109863281" height="64">
+            <text id="5:1998" name="Text" x="0" y="0" width="261.2300109863281" height="64" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2001" name="Section - Nasza Historia" x="24" y="319" width="342" height="1251.949951171875">
+        <frame id="5:2002" name="Container" x="0" y="48" width="342" height="679.9500122070312">
+          <frame id="5:2003" name="Heading 2" x="0" y="0" width="342" height="40">
+            <rounded-rectangle id="5:2004" name="Horizontal Divider" x="0" y="19.5" width="21.829999923706055" height="1" />
+            <frame id="5:2005" name="Container" x="37.83000183105469" y="0" width="266.3399963378906" height="40">
+              <text id="5:2006" name="Text" x="16" y="0" width="234.33999633789062" height="40" />
+            </frame>
+            <rounded-rectangle id="5:2007" name="Horizontal Divider" x="320.1700134277344" y="19.5" width="21.829999923706055" height="1" />
+          </frame>
+          <frame id="5:2008" name="Container" x="0" y="63.125" width="342" height="616.8250122070312">
+            <frame id="5:2009" name="Container" x="0" y="0" width="342" height="176">
+              <text id="5:2010" name="Wszystko zaczęło się od pasji do rozwiązywania zagadek i odkrywania nieznanego. Nasza podróż rozpoczęła się pod szyldem, gdzie z sukcesem realizowaliśmy setki gier terenowych, integrując tysiące graczy." x="0" y="0" width="342" height="176" />
+            </frame>
+            <frame id="5:2011" name="Container" x="0" y="191.10000610351562" width="342" height="234.625">
+              <text id="5:2012" name="Jednak czuliśmy, że możemy pójść o krok dalej. Pragnęliśmy stworzyć coś, co zaciera granice między rzeczywistością a fikcją. Tak narodziła się ENIGMA – ewolucja naszej wizji, skupiona na głębokiej immersji, zaawansowanej technologii i filmowej narracji w przestrzeni miejskiej." x="0" y="0" width="342" height="234" />
+            </frame>
+            <frame id="5:2013" name="Container" x="0" y="440.82501220703125" width="342" height="176">
+              <text id="5:2014" name="Dziś Enigma to nie tylko gry. To autorskie uniwersum, w którym każdy uczestnik staje się głównym bohaterem tajemniczej opowieści, odkrywając ukryte oblicze świata, który go otacza." x="0" y="0" width="342" height="176" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2015" name="Container" x="0" y="751.9500122070312" width="342" height="500">
+          <rounded-rectangle id="5:2016" name="Overlay+Blur" x="-8" y="-8" width="358" height="516" />
+          <frame id="5:2017" name="Overlay+Border+Shadow" x="0" y="0" width="342" height="500">
+            <frame id="5:2018" name="AB6AXuAIoaTx1celZd7WBP0Df0QkRIhG-Pv4st8z6DSTIV2gAAROGR4MldwCq5C3L3vZra-kChEQByfoMGp-5e1F4CMlqiuls7Bd-bz7YKAMdTFBwdZl5bdE5O5trM242fiWAU8gITECEL6KiNcsoxProq-MBtYAvLvk5Tkzfp2_l8r8JyjA4TFqKLYAmjBbftZb268gxJ6iBa4MaL362j8ihsDmgapzoB1338BzVanhYByRo0l1Z5-TmVWpaD64GRXtgUx9DpP495uFV98" x="1" y="1" width="340" height="498" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2019" name="Section - Nasza Misja (Bento Grid)" x="0" y="1570.949951171875" width="390" height="1968">
+        <frame id="5:2020" name="Container" x="24" y="112" width="342" height="96">
+          <frame id="5:2021" name="Container" x="0" y="0" width="342" height="96">
+            <frame id="5:2022" name="Heading 2" x="0" y="0" width="342" height="40">
+              <text id="5:2023" name="Text" x="0" y="0" width="292.04998779296875" height="40" />
+            </frame>
+            <frame id="5:2024" name="Container" x="0" y="48" width="342" height="48">
+              <text id="5:2025" name="Text" x="0" y="0" width="266.0199890136719" height="48" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2026" name="Container" x="24" y="272" width="342" height="1632">
+          <frame id="5:2027" name="Team Member 1" x="0" y="0" width="342" height="528">
+            <frame id="5:2028" name="Heading 4" x="0" y="480" width="342" height="32">
+              <text id="5:2029" name="Text" x="0" y="0" width="183.80999755859375" height="32" />
+            </frame>
+            <frame id="5:2030" name="Container" x="0" y="512" width="342" height="16">
+              <text id="5:2031" name="Text" x="0" y="0" width="88.69999694824219" height="16" />
+            </frame>
+            <frame id="5:2032" name="Border" x="0" y="0" width="342" height="456">
+              <frame id="5:2033" name="AB6AXuAEOGHqiKHNY1C41Aqtw9M4VGHPjfgI8XoxahB0nCfu6dwL_pbqxokJG2vIhXG-BV6xkeV6fB3c7oeK-pw7NSFYwUSFZpKHe9sa8ohgGG9eTi7VIuk-awLXjWC5eC0Ise37EeJOjOjPDnLWp7288wDjAyxU80vIslwIWidwmNVM6SahznKw0OhsI_07FOiqyrxNpfsTbGX2nC0p7onkDiovYzy-ZXc7br0EdCe2HEO0maXdohQhEhu7hFyQ8OAJjz2QessLWAwMnSs" x="1" y="1" width="340" height="454" />
+              <rounded-rectangle id="5:2034" name="Gradient" x="1" y="1" width="340" height="454" />
+            </frame>
+          </frame>
+          <frame id="5:2035" name="Team Member 2" x="0" y="552" width="342" height="528">
+            <frame id="5:2036" name="Heading 4" x="0" y="480" width="342" height="32">
+              <text id="5:2037" name="Text" x="0" y="0" width="170.61000061035156" height="32" />
+            </frame>
+            <frame id="5:2038" name="Container" x="0" y="512" width="342" height="16">
+              <text id="5:2039" name="Text" x="0" y="0" width="213.22000122070312" height="16" />
+            </frame>
+            <frame id="5:2040" name="Border" x="0" y="0" width="342" height="456">
+              <frame id="5:2041" name="AB6AXuA71D7NAYtRX9XBy1hZAp2DY-D1fYI6S6j_BxjY4NFMz_aADFrTgIcMHz2xcAIF7ZaQW345zXhOFqkiGDpWqq-rJ3gbKUVH5mBt38sZIs6bK21HsAkvb6J8GOs_jcwkRqBFAdsK4RGXliB0zfNVveekoudk7MnxSvz5M4IoXhaDcbYDd47elNSVS_FRfAeGUayBJCWV2hhBn0sVkbOLseYHCa3VB5uNllEru1jK-GlW3lL_5Lv2saAdhXUmSfdjBK11Wxb8b9BxLAA" x="1" y="1" width="340" height="454" />
+              <rounded-rectangle id="5:2042" name="Gradient" x="1" y="1" width="340" height="454" />
+            </frame>
+          </frame>
+          <frame id="5:2043" name="Team Member 3" x="0" y="1104" width="342" height="528">
+            <frame id="5:2044" name="Heading 4" x="0" y="480" width="342" height="32">
+              <text id="5:2045" name="Text" x="0" y="0" width="243.08999633789062" height="32" />
+            </frame>
+            <frame id="5:2046" name="Container" x="0" y="512" width="342" height="16">
+              <text id="5:2047" name="Text" x="0" y="0" width="170.66000366210938" height="16" />
+            </frame>
+            <frame id="5:2048" name="Border" x="0" y="0" width="342" height="456">
+              <frame id="5:2049" name="AB6AXuBD1ndir2_r_-i-UCkAo9sbGQKm3yg5h25wodd9azkCCSMO3-2Lg4Js0GmaqxRM9vwFCQHiV6IY2u0VjoujgGMK6usP5uJHKCaqJj6BlcbZzpfBiHRizonMZDRyqaHJGGynShEar-KjRDB_ARjIvmGAhtiQguYkpvHm-vcauszvV7VtiU1pz7i6AO_1lqXrcXzTspHysuIvpQZafycw2rxc3LbfgFfFYRiD_aOZF0EwPo3lIxa_VY1ORb4NANBiBzKTl9cWWJR9uoI" x="1" y="1" width="340" height="454" />
+              <rounded-rectangle id="5:2050" name="Gradient" x="1" y="1" width="340" height="454" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2051" name="Section" x="0" y="3538.949951171875" width="390" height="1404.646484375">
+        <frame id="5:2052" name="Container" x="0" y="64" width="390" height="1276.646484375">
+          <frame id="5:2053" name="Container" x="24" y="0" width="342" height="168">
+            <frame id="5:2054" name="Heading 2" x="0" y="0" width="342" height="80">
+              <text id="5:2055" name="Text" x="9.770004272460938" y="0" width="322.4599914550781" height="80" />
+            </frame>
+            <frame id="5:2056" name="Container" x="0" y="96" width="342" height="72">
+              <text id="5:2057" name="Text" x="7.7100067138671875" y="0" width="326.5799865722656" height="72" />
+            </frame>
+          </frame>
+          <frame id="5:2058" name="Container" x="24" y="232" width="342" height="1044.646484375">
+            <frame id="5:2059" name="Personalizacja" x="0" y="0" width="342" height="338.9464111328125">
+              <frame id="5:2060" name="Margin" x="141.46328735351562" y="40" width="59.073421478271484" height="90.94642639160156">
+                <frame id="5:2061" name="Overlay" x="0" y="0" width="59.073421478271484" height="66.94642639160156">
+                  <vector id="5:2062" name="Icon" x="16" y="16" width="27.073421478271484" height="29.946428298950195" />
+                </frame>
+              </frame>
+              <frame id="5:2063" name="Heading 3:margin" x="82.08000183105469" y="130.94642639160156" width="177.83999633789062" height="48">
+                <frame id="5:2064" name="Heading 3" x="0" y="0" width="177.83999633789062" height="32">
+                  <text id="5:2065" name="Text" x="0" y="0" width="177.83999633789062" height="32" />
+                </frame>
+              </frame>
+              <frame id="5:2066" name="Container" x="40" y="178.94642639160156" width="262" height="120">
+                <text id="5:2067" name="Text" x="6.03000020980835" y="0" width="249.94000244140625" height="120" />
+              </frame>
+            </frame>
+            <frame id="5:2068" name="Tajemnica" x="0" y="354.9464111328125" width="342" height="346.70001220703125">
+              <frame id="5:2069" name="Margin" x="138.5" y="72" width="65" height="90.69999694824219">
+                <frame id="5:2070" name="Overlay" x="0" y="0" width="65" height="66.69999694824219">
+                  <vector id="5:2071" name="Icon" x="16" y="16" width="33" height="29.700000762939453" />
+                </frame>
+              </frame>
+              <frame id="5:2072" name="Heading 3:margin" x="107.23500061035156" y="162.6999969482422" width="127.52999877929688" height="48">
+                <frame id="5:2073" name="Heading 3" x="0" y="0" width="127.52999877929688" height="32">
+                  <text id="5:2074" name="Text" x="0" y="0" width="127.52999877929688" height="32" />
+                </frame>
+              </frame>
+              <frame id="5:2075" name="Container" x="40" y="210.6999969482422" width="262" height="96">
+                <text id="5:2076" name="Text" x="0.9700000286102295" y="0" width="260.04998779296875" height="96" />
+              </frame>
+            </frame>
+            <frame id="5:2077" name="Społeczno" x="0" y="717.6464233398438" width="342" height="327">
+              <frame id="5:2078" name="Margin" x="137" y="40" width="68" height="79">
+                <frame id="5:2079" name="Overlay" x="0" y="0" width="68" height="55">
+                  <vector id="5:2080" name="Icon" x="16" y="16" width="36" height="18" />
+                </frame>
+              </frame>
+              <frame id="5:2081" name="Heading 3:margin" x="93.875" y="119" width="154.25" height="48">
+                <frame id="5:2082" name="Heading 3" x="0" y="0" width="154.25" height="32">
+                  <text id="5:2083" name="Text" x="0" y="0" width="154.25" height="32" />
+                </frame>
+              </frame>
+              <frame id="5:2084" name="Container" x="40" y="167" width="262" height="120">
+                <text id="5:2085" name="Text" x="5.610000133514404" y="0" width="250.77999877929688" height="120" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:2086" name="Footer" x="0" y="4943.5966796875" width="390" height="782">
+      <frame id="5:2087" name="Container" x="32" y="48" width="326" height="626.4000244140625">
+        <frame id="5:2088" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:2089" name="Footer Description" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:2090" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:2091" name="Footer Links Grid" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:2092" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2093" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2094" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2095" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2096" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2097" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2098" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2099" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2100" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2101" name="Współpraca" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2102" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2103" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2104" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2105" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2106" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2107" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2108" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2109" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2110" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2111" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2112" name="Social Icons" x="0" y="416.39996337890625" width="326" height="110">
+          <frame id="5:2113" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="40">
+            <text id="5:2114" name="Text" x="0" y="0" width="89.2699966430664" height="24" />
+          </frame>
+          <frame id="5:2115" name="Container" x="65" y="65" width="196" height="20">
+            <frame id="5:2116" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:2117" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2119" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:2120" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2122" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:2123" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2125" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:2126" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2128" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:2129" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2131" name="Copyright Area" x="0" y="557.7999267578125" width="326" height="68.5999984741211">
+          <frame id="5:2132" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:2133" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:2134" name="Container" x="0" y="44.599998474121094" width="326" height="24">
+            <text id="5:2135" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="24" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:643" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:11" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:645" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:646" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:647" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:648" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:649" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:650" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:651" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:393" name="BottomNavBar" x="0" y="5646" width="390" height="80">
+      <frame id="8:394" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:395" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:396" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:397" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:398" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:399" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:400" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:401" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:402" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:403" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:404" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:405" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:406" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:407" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:408" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:409" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2167" name="Enigma - Nowe Trasy i Oznaczenia" x="1704" y="-2" width="390" height="2599">
+    <frame id="5:2168" name="Main" x="0" y="64" width="390" height="2518.64990234375">
+      <frame id="5:2169" name="Header Section" x="0" y="0" width="390" height="873">
+        <rounded-rectangle id="5:2170" name="Gradient" x="0" y="0" width="390" height="873" />
+        <frame id="5:2171" name="Container" x="24" y="80" width="342" height="745">
+          <frame id="5:2172" name="Heading 2" x="0" y="0" width="342" height="75">
+            <text id="5:2173" name="Alternatywne Rzeczywistości" x="0" y="0" width="342" height="75" />
+          </frame>
+          <frame id="5:2174" name="Paragraph" x="0" y="91" width="342" height="588">
+            <text id="5:2175" name="Text" x="0" y="0" width="305.9200134277344" height="182" />
+            <text id="5:2176" name="Text" x="0" y="208" width="329.55999755859375" height="130" />
+            <text id="5:2177" name="Text" x="0" y="364" width="334.0299987792969" height="208" />
+          </frame>
+          <frame id="5:2178" name="Button" x="0" y="695" width="279.9200134277344" height="50">
+            <text id="5:2179" name="Text" x="33" y="13" width="213.9199981689453" height="24" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2180" name="Selection Section" x="0" y="873" width="390" height="724.25">
+        <frame id="5:2181" name="Container" x="0" y="48" width="390" height="48">
+          <rounded-rectangle id="5:2182" name="Background" x="24" y="0" width="48" height="4" />
+          <frame id="5:2183" name="Heading 3" x="24" y="28" width="342" height="20">
+            <frame id="5:2184" name="Container" x="0" y="2.0833334922790527" width="16.66666603088379" height="15.833333015441895">
+              <vector id="5:2185" name="Icon" x="0" y="0" width="16.66666603088379" height="15.833333015441895" />
+            </frame>
+            <text id="5:2186" name="Text" x="28.66666603088379" y="0" width="168.0500030517578" height="20" />
+          </frame>
+        </frame>
+        <frame id="5:2187" name="Button" x="24" y="112" width="342" height="134">
+          <frame id="5:2188" name="Container" x="25" y="33" width="213.22000122070312" height="76">
+            <frame id="5:2189" name="Container" x="0" y="0" width="213.22000122070312" height="16">
+              <text id="5:2190" name="Text" x="0" y="0" width="66.11000061035156" height="16" />
+            </frame>
+            <frame id="5:2191" name="Heading 3" x="0" y="20" width="213.22000122070312" height="56">
+              <text id="5:2192" name="Text" x="0" y="0" width="213.22000122070312" height="56" />
+            </frame>
+          </frame>
+          <frame id="5:2193" name="Border" x="280.9700012207031" y="51" width="36.029998779296875" height="40">
+            <frame id="5:2194" name="Container" x="10.014999389648438" y="12" width="16" height="16">
+              <vector id="5:2195" name="Icon" x="0" y="0" width="16" height="16" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2196" name="Heading 4" x="24" y="262" width="342" height="52">
+          <text id="5:2197" name="Text" x="0" y="32" width="126.87999725341797" height="20" />
+        </frame>
+        <frame id="5:2198" name="Carousel" x="0" y="330" width="390" height="346.25">
+          <frame id="5:2199" name="Container" x="0" y="0" width="390" height="314.25">
+            <frame id="5:2200" name="Carousel Item 1" x="24" y="0" width="280" height="314.25">
+              <frame id="5:2201" name="Background+Border+Shadow" x="0" y="0" width="280" height="314.25">
+                <frame id="5:2202" name="Container" x="1" y="1" width="278" height="176">
+                  <rounded-rectangle id="5:2203" name="Image" x="0" y="0" width="278" height="176" />
+                  <rounded-rectangle id="5:2204" name="Gradient" x="0" y="96" width="278" height="80" />
+                  <frame id="5:2205" name="Background" x="189.25" y="12" width="76.75" height="23">
+                    <text id="5:2206" name="Text" x="12" y="4" width="52.75" height="15" />
+                  </frame>
+                </frame>
+                <frame id="5:2207" name="Background" x="1" y="177" width="278" height="136.25">
+                  <frame id="5:2208" name="Heading 4" x="16" y="16" width="246" height="28">
+                    <text id="5:2209" name="MGLISTY NEON" x="0" y="0" width="246" height="28" />
+                  </frame>
+                  <frame id="5:2210" name="Container" x="16" y="51.25" width="246" height="69">
+                    <text id="5:2211" name="Połączenie cyberpunku z tradycją starego miasta. Czy odważysz się wejść głębiej?" x="0" y="0" width="246" height="69" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2212" name="Carousel Item 2" x="320" y="0" width="280" height="314.25">
+              <frame id="5:2213" name="Background+Border+Shadow" x="0" y="0" width="280" height="291.375">
+                <frame id="5:2214" name="Container" x="1" y="1" width="278" height="176">
+                  <rounded-rectangle id="5:2215" name="Image" x="0" y="0" width="278" height="176" />
+                  <rounded-rectangle id="5:2216" name="Gradient" x="0" y="96" width="278" height="80" />
+                  <frame id="5:2217" name="Background" x="189.25" y="12" width="76.75" height="23">
+                    <text id="5:2218" name="Text" x="12" y="4" width="52.75" height="15" />
+                  </frame>
+                </frame>
+                <frame id="5:2219" name="Background" x="1" y="177" width="278" height="113.375">
+                  <frame id="5:2220" name="Heading 4" x="16" y="16" width="246" height="28">
+                    <text id="5:2221" name="CZARNY PAROWÓZ" x="0" y="0" width="246" height="28" />
+                  </frame>
+                  <frame id="5:2222" name="Container" x="16" y="51.375" width="246" height="46">
+                    <text id="5:2223" name="Detektywistyczna zagadka w sercu steampunkowej metropolii." x="0" y="0" width="246" height="46" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2224" name="Carousel Item 3" x="616" y="0" width="280" height="314.25">
+              <frame id="5:2225" name="Background+Border+Shadow" x="0" y="0" width="280" height="291.375">
+                <frame id="5:2226" name="Container" x="1" y="1" width="278" height="176">
+                  <rounded-rectangle id="5:2227" name="Image" x="0" y="0" width="278" height="176" />
+                  <rounded-rectangle id="5:2228" name="Gradient" x="0" y="96" width="278" height="80" />
+                  <frame id="5:2229" name="Background" x="189.25" y="12" width="76.75" height="23">
+                    <text id="5:2230" name="Text" x="12" y="4" width="52.75" height="15" />
+                  </frame>
+                </frame>
+                <frame id="5:2231" name="Background" x="1" y="177" width="278" height="113.375">
+                  <frame id="5:2232" name="Heading 4" x="16" y="16" width="246" height="28">
+                    <text id="5:2233" name="KRYSZTAŁOWY LAS" x="0" y="0" width="246" height="28" />
+                  </frame>
+                  <frame id="5:2234" name="Container" x="16" y="51.375" width="246" height="46">
+                    <text id="5:2235" name="Eksploracja wymiaru, w którym natura połączyła się z magią." x="0" y="0" width="246" height="46" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2236" name="Pagination" x="0" y="338.25" width="390" height="8">
+            <rounded-rectangle id="5:2237" name="Background" x="159" y="0" width="8" height="8" />
+            <rounded-rectangle id="5:2238" name="Background" x="175" y="0" width="8" height="8" />
+            <rounded-rectangle id="5:2239" name="Background" x="191" y="0" width="8" height="8" />
+            <rounded-rectangle id="5:2240" name="Background" x="207" y="0" width="8" height="8" />
+            <rounded-rectangle id="5:2241" name="Background" x="223" y="0" width="8" height="8" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2242" name="Order Section" x="0" y="1597.25" width="390" height="164">
+        <frame id="5:2243" name="Button" x="24" y="40" width="342" height="84">
+          <frame id="5:2244" name="Container" x="26" y="22" width="196.63999938964844" height="40">
+            <text id="5:2245" name="Text" x="0" y="0" width="196.63999938964844" height="40" />
+          </frame>
+          <frame id="5:2246" name="Container" x="300" y="34" width="16" height="16">
+            <vector id="5:2247" name="Icon" x="0" y="0" width="16" height="16" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2248" name="Footer - Default Blue Section (Mission)" x="0" y="1761.25" width="390" height="757.4000244140625">
+        <frame id="5:2249" name="Container" x="32" y="48" width="326" height="613.4000244140625">
+          <frame id="5:2250" name="Enigma Logo" x="0" y="0" width="249" height="45" />
+          <frame id="5:2251" name="Container" x="0" y="76.4000015258789" width="326" height="137">
+            <text id="5:2252" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+          </frame>
+          <frame id="5:2253" name="Container" x="0" y="244.79998779296875" width="326" height="145.1999969482422">
+            <frame id="5:2254" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+              <frame id="5:2255" name="Heading 4" x="0" y="0" width="147" height="20">
+                <text id="5:2256" name="ENIGMA" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2257" name="List" x="0" y="36" width="147" height="76">
+                <frame id="5:2258" name="Item" x="0" y="0" width="147" height="20">
+                  <text id="5:2259" name="O nas" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="5:2260" name="Item" x="0" y="28" width="147" height="20">
+                  <text id="5:2261" name="Inne projekty" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="5:2262" name="Item" x="0" y="56" width="147" height="20">
+                  <text id="5:2263" name="Współpraca" x="0" y="0" width="147" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2264" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+              <frame id="5:2265" name="Heading 4" x="0" y="0" width="147" height="20">
+                <text id="5:2266" name="POMOC" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2267" name="List" x="0" y="36" width="147" height="76">
+                <frame id="5:2268" name="Item" x="0" y="0" width="147" height="20">
+                  <text id="5:2269" name="Kontakt" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="5:2270" name="Item" x="0" y="28" width="147" height="20">
+                  <text id="5:2271" name="Regulamin" x="0" y="0" width="147" height="20" />
+                </frame>
+                <frame id="5:2272" name="Item" x="0" y="56" width="147" height="20">
+                  <text id="5:2273" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2274" name="Border" x="0" y="421.39996337890625" width="326" height="101">
+            <frame id="5:2275" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+              <text id="5:2276" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+            </frame>
+            <frame id="5:2277" name="Container" x="65" y="56" width="196" height="20">
+              <frame id="5:2278" name="Link" x="0" y="0" width="20" height="20">
+                <frame id="5:2279" name="SVG" x="0" y="0" width="20" height="20" />
+              </frame>
+              <frame id="5:2281" name="Link" x="44" y="0" width="20" height="20">
+                <frame id="5:2282" name="SVG" x="0" y="0" width="20" height="20" />
+              </frame>
+              <frame id="5:2284" name="Link" x="88" y="0" width="20" height="20">
+                <frame id="5:2285" name="SVG" x="0" y="0" width="20" height="20" />
+              </frame>
+              <frame id="5:2287" name="Link" x="132" y="0" width="20" height="20">
+                <frame id="5:2288" name="SVG" x="0" y="0" width="20" height="20" />
+              </frame>
+              <frame id="5:2290" name="Link" x="176" y="0" width="20" height="20">
+                <frame id="5:2291" name="SVG" x="0" y="0" width="20" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2293" name="Container" x="0" y="553.7999267578125" width="326" height="59.599998474121094">
+            <frame id="5:2294" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+              <text id="5:2295" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+            </frame>
+            <frame id="5:2296" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+              <text id="5:2297" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:653" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:15" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:655" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:656" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:657" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:658" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:659" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:660" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:661" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:429" name="BottomNavBar" x="0" y="2519" width="390" height="80">
+      <frame id="8:430" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:431" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:432" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:433" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:434" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:435" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:436" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:437" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:438" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:439" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:440" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:441" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:442" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:443" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:444" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:445" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2329" name="Enigma - Lokalne Gry Terenowe (with Footer)" x="2130" y="-2" width="390" height="3048">
+    <frame id="5:2330" name="Main Content" x="0" y="0" width="390" height="2269">
+      <frame id="5:2331" name="Section - Hero / Intro" x="0" y="0" width="390" height="690">
+        <frame id="5:2332" name="Heading 1:margin" x="16.664993286132812" y="128" width="356.6700134277344" height="64">
+          <frame id="5:2333" name="Heading 1" x="0" y="0" width="356.6700134277344" height="48">
+            <text id="5:2334" name="Text" x="0" y="0" width="356.6700134277344" height="48" />
+          </frame>
+        </frame>
+        <frame id="5:2335" name="Paragraph" x="16.18499755859375" y="192" width="357.6300048828125" height="384">
+          <text id="5:2336" name="Text" x="0" y="0" width="357.6300048828125" height="48" />
+          <text id="5:2337" name="Text" x="0" y="72" width="353.7300109863281" height="96" />
+          <text id="5:2338" name="Text" x="0" y="192" width="355.2200012207031" height="192" />
+        </frame>
+        <frame id="5:2339" name="Button:margin" x="16.008804321289062" y="576" width="357.9823913574219" height="82">
+          <frame id="5:2340" name="Button" x="39.03120040893555" y="32" width="279.9200134277344" height="50">
+            <text id="5:2341" name="Text" x="33" y="13" width="213.9199981689453" height="24" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2342" name="Code Input Section:margin" x="0" y="690" width="390" height="325">
+        <frame id="5:2343" name="Code Input Section" x="16" y="0" width="358" height="293">
+          <rounded-rectangle id="5:2344" name="Gradient" x="1" y="1" width="356" height="291" />
+          <frame id="5:2345" name="Container" x="25" y="25" width="308" height="243">
+            <frame id="5:2346" name="Heading 2" x="0" y="0" width="308" height="24">
+              <frame id="5:2347" name="Container" x="0" y="6" width="23" height="12">
+                <vector id="5:2348" name="Icon" x="0" y="0" width="23" height="12" />
+              </frame>
+              <text id="5:2349" name="Text" x="31" y="0" width="88.08000183105469" height="24" />
+            </frame>
+            <frame id="5:2350" name="Container" x="0" y="32" width="308" height="72">
+              <text id="5:2351" name="Jeżeli odnalazłeś kod na wizytówce wpisz go tutaj, aby odblokować specjalną misję." x="0" y="0" width="308" height="72" />
+            </frame>
+            <frame id="5:2352" name="Container" x="0" y="112" width="308" height="131">
+              <frame id="5:2353" name="Input" x="0" y="16" width="308" height="51">
+                <frame id="5:2354" name="Container" x="17" y="15" width="274" height="20">
+                  <text id="5:2355" name="Wpisz tajny kod..." x="0" y="0" width="274" height="20" />
+                </frame>
+              </frame>
+              <frame id="5:2356" name="Button" x="0" y="83" width="299.97998046875" height="48">
+                <frame id="5:2357" name="Container" x="105.61000061035156" y="13.5" width="16" height="21">
+                  <vector id="5:2358" name="Icon" x="0" y="0" width="16" height="21" />
+                </frame>
+                <text id="5:2359" name="Text" x="129.61000061035156" y="12" width="64.7699966430664" height="24" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2360" name="Game Selection Section" x="0" y="1015" width="390" height="1254">
+        <frame id="5:2361" name="Container" x="16" y="0" width="358" height="66">
+          <text id="5:2362" name="Heading 2 → Wybierz grę" x="0" y="0" width="100.52999877929688" height="24" />
+          <frame id="5:2363" name="Container" x="0" y="24" width="358" height="42">
+            <frame id="5:2364" name="Options" x="0" y="0" width="358" height="42">
+              <frame id="5:2365" name="image clip" x="0" y="0" width="358" height="42">
+                <frame id="5:2366" name="image" x="325" y="9" width="24" height="24" />
+              </frame>
+              <frame id="5:2368" name="Container" x="41" y="9" width="300" height="24">
+                <text id="5:2369" name="Wybierz miasto" x="0" y="0" width="300" height="24" />
+              </frame>
+            </frame>
+            <frame id="5:2370" name="Container" x="12" y="9" width="16" height="24">
+              <vector id="5:2371" name="Icon" x="0" y="0" width="16" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2372" name="Container" x="16" y="90" width="358" height="1116">
+          <frame id="5:2373" name="Article - Game Card 1" x="0" y="0" width="358" height="356">
+            <frame id="5:2374" name="Container" x="1" y="1" width="356" height="192">
+              <rounded-rectangle id="5:2375" name="Image" x="0" y="0" width="356" height="192" />
+              <rounded-rectangle id="5:2376" name="Gradient" x="0" y="0" width="356" height="192" />
+              <frame id="5:2377" name="Overlay+Border+OverlayBlur" x="226.32333374023438" y="12" width="117.67666625976562" height="34">
+                <frame id="5:2378" name="Container" x="13" y="11.458333969116211" width="11.666666984558105" height="11.083333015441895">
+                  <vector id="5:2379" name="Icon" x="0" y="0" width="11.666666984558105" height="11.083333015441895" />
+                </frame>
+                <frame id="5:2380" name="Container" x="28.656665802001953" y="5" width="76.0199966430664" height="24">
+                  <text id="5:2381" name="Text" x="0" y="0" width="76.0199966430664" height="24" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2382" name="Container" x="1" y="193" width="356" height="162">
+              <frame id="5:2383" name="Heading 3:margin" x="20" y="20" width="316" height="32">
+                <frame id="5:2384" name="Heading 3" x="0" y="0" width="316" height="24">
+                  <text id="5:2385" name="Tajemnica Zegarmistrza" x="0" y="0" width="316" height="24" />
+                </frame>
+              </frame>
+              <frame id="5:2386" name="Margin" x="20" y="52" width="316" height="40">
+                <frame id="5:2387" name="Container" x="0" y="3" width="316" height="21">
+                  <frame id="5:2388" name="Container" x="0" y="0" width="81.80000305175781" height="21">
+                    <frame id="5:2389" name="Container" x="0" y="0" width="18" height="21">
+                      <vector id="5:2390" name="Icon" x="0" y="0" width="18" height="21" />
+                    </frame>
+                    <text id="5:2391" name="Text" x="22" y="0.5" width="59.79999923706055" height="20" />
+                  </frame>
+                  <frame id="5:2392" name="Container" x="97.80000305175781" y="0" width="89.45176696777344" height="21">
+                    <frame id="5:2393" name="Container" x="0" y="0.5" width="19.011764526367188" height="20">
+                      <vector id="5:2394" name="Icon" x="0" y="0" width="19.011764526367188" height="20" />
+                    </frame>
+                    <text id="5:2395" name="Text" x="23.011764526367188" y="0.5" width="66.44000244140625" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="5:2396" name="Button" x="20" y="92" width="316" height="50">
+                <text id="5:2397" name="Text" x="105.4000015258789" y="13" width="105.19999694824219" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2398" name="Article - Game Card 2" x="0" y="380" width="358" height="356">
+            <frame id="5:2399" name="Container" x="1" y="1" width="356" height="192">
+              <rounded-rectangle id="5:2400" name="Image" x="0" y="0" width="356" height="192" />
+              <rounded-rectangle id="5:2401" name="Gradient" x="0" y="0" width="356" height="192" />
+            </frame>
+            <frame id="5:2402" name="Container" x="1" y="193" width="356" height="162">
+              <frame id="5:2403" name="Heading 3:margin" x="20" y="20" width="316" height="32">
+                <frame id="5:2404" name="Heading 3" x="0" y="0" width="316" height="24">
+                  <text id="5:2405" name="Widmo Ekspresu" x="0" y="0" width="316" height="24" />
+                </frame>
+              </frame>
+              <frame id="5:2406" name="Margin" x="20" y="52" width="316" height="40">
+                <frame id="5:2407" name="Container" x="0" y="3" width="316" height="21">
+                  <frame id="5:2408" name="Container" x="0" y="0" width="76.66000366210938" height="21">
+                    <frame id="5:2409" name="Container" x="0" y="0" width="18" height="21">
+                      <vector id="5:2410" name="Icon" x="0" y="0" width="18" height="21" />
+                    </frame>
+                    <text id="5:2411" name="Text" x="22" y="0.5" width="54.65999984741211" height="20" />
+                  </frame>
+                  <frame id="5:2412" name="Container" x="92.66000366210938" y="0" width="93.23176574707031" height="21">
+                    <frame id="5:2413" name="Container" x="0" y="0.5" width="19.011764526367188" height="20">
+                      <vector id="5:2414" name="Icon" x="0" y="0" width="19.011764526367188" height="20" />
+                    </frame>
+                    <text id="5:2415" name="Text" x="23.011764526367188" y="0.5" width="70.22000122070312" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="5:2416" name="Button" x="20" y="92" width="316" height="50">
+                <text id="5:2417" name="Text" x="105.4000015258789" y="13" width="105.19999694824219" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2418" name="Article - Game Card 3" x="0" y="760" width="358" height="356">
+            <frame id="5:2419" name="Container" x="1" y="1" width="356" height="192">
+              <rounded-rectangle id="5:2420" name="Image" x="0" y="0" width="356" height="192" />
+              <rounded-rectangle id="5:2421" name="Gradient" x="0" y="0" width="356" height="192" />
+            </frame>
+            <frame id="5:2422" name="Container" x="1" y="193" width="356" height="162">
+              <frame id="5:2423" name="Heading 3:margin" x="20" y="20" width="316" height="32">
+                <frame id="5:2424" name="Heading 3" x="0" y="0" width="316" height="24">
+                  <text id="5:2425" name="Archiwum Alchemika" x="0" y="0" width="316" height="24" />
+                </frame>
+              </frame>
+              <frame id="5:2426" name="Margin" x="20" y="52" width="316" height="40">
+                <frame id="5:2427" name="Container" x="0" y="3" width="316" height="21">
+                  <frame id="5:2428" name="Container" x="0" y="0" width="76.66000366210938" height="21">
+                    <frame id="5:2429" name="Container" x="0" y="0" width="18" height="21">
+                      <vector id="5:2430" name="Icon" x="0" y="0" width="18" height="21" />
+                    </frame>
+                    <text id="5:2431" name="Text" x="22" y="0.5" width="54.65999984741211" height="20" />
+                  </frame>
+                  <frame id="5:2432" name="Container" x="92.66000366210938" y="0" width="77.4317626953125" height="21">
+                    <frame id="5:2433" name="Container" x="0" y="0.5" width="19.011764526367188" height="20">
+                      <vector id="5:2434" name="Icon" x="0" y="0" width="19.011764526367188" height="20" />
+                    </frame>
+                    <text id="5:2435" name="Text" x="23.011764526367188" y="0.5" width="54.41999816894531" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="5:2436" name="Button" x="20" y="92" width="316" height="50">
+                <text id="5:2437" name="Text" x="105.4000015258789" y="13" width="105.19999694824219" height="24" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:2438" name="Footer" x="0" y="2269" width="390" height="729">
+      <frame id="5:2439" name="Container" x="32" y="48" width="326" height="608.4000244140625">
+        <frame id="5:2440" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:2441" name="Footer Description" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:2442" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:2443" name="Footer Links Grid" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:2444" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2445" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2446" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2447" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2448" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2449" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2450" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2451" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2452" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2453" name="Współpraca" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2454" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2455" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2456" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2457" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2458" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2459" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2460" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2461" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2462" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2463" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2464" name="Social Icons" x="0" y="416.39996337890625" width="326" height="101">
+          <frame id="5:2465" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:2466" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:2467" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:2468" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:2469" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2471" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:2472" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2474" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:2475" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2477" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:2478" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2480" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:2481" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2483" name="Copyright Area" x="0" y="548.7999267578125" width="326" height="59.599998474121094">
+          <frame id="5:2484" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:2485" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:2486" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+            <text id="5:2487" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:663" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:21" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:665" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:666" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:667" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:668" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:669" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:670" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:671" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:447" name="BottomNavBar" x="0" y="2968" width="390" height="80">
+      <frame id="8:448" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:449" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:450" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:451" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:452" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:453" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:454" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:455" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:456" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:457" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:458" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:459" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:460" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:461" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:462" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:463" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2517" name="Enigma - Wejście (Zaktualizowane Sekcje)" x="2556" y="-2" width="390" height="1909">
+    <frame id="5:2518" name="Main → Hero Section" x="0" y="64" width="390" height="1049.5">
+      <frame id="5:2519" name="Background Image" x="0" y="0" width="390" height="1050">
+        <frame id="5:2520" name="Wanderer in a mystical cave" x="0" y="0" width="390" height="1050" />
+        <rounded-rectangle id="5:2521" name="Overlay" x="0" y="0" width="390" height="1050" />
+        <rounded-rectangle id="5:2522" name="Gradient" x="0" y="0" width="390" height="1050" />
+      </frame>
+      <frame id="5:2523" name="Content" x="24" y="80" width="342" height="905.5">
+        <frame id="5:2524" name="Container" x="0" y="0" width="342" height="905.5">
+          <frame id="5:2525" name="Panel 1: Header Section" x="0" y="0" width="342" height="273">
+            <frame id="5:2526" name="Heading 2:margin" x="33" y="33" width="276" height="151">
+              <frame id="5:2527" name="Heading 2" x="0" y="0" width="276" height="135">
+                <text id="5:2528" name="Text" x="12.050000190734863" y="0" width="251.89999389648438" height="135" />
+              </frame>
+            </frame>
+            <frame id="5:2529" name="Shadow" x="33" y="184" width="276" height="56">
+              <text id="5:2530" name="Text" x="1.809999942779541" y="0" width="272.3599853515625" height="56" />
+            </frame>
+          </frame>
+          <frame id="5:2531" name="Panel 2: Interactive Section" x="0" y="305" width="342" height="600.5">
+            <frame id="5:2532" name="Panel 2a: Code Input" x="0" y="0" width="342" height="340">
+              <frame id="5:2533" name="Section" x="33" y="33" width="276" height="274">
+                <frame id="5:2534" name="Heading 2" x="0" y="0" width="276" height="64">
+                  <text id="5:2535" name="Text" x="49.38999938964844" y="0" width="177.22000122070312" height="64" />
+                </frame>
+                <frame id="5:2536" name="Margin" x="0" y="80" width="276" height="56">
+                  <frame id="5:2537" name="Container" x="0" y="0" width="276" height="48">
+                    <text id="5:2538" name="Text" x="18.719999313354492" y="0" width="238.55999755859375" height="48" />
+                  </frame>
+                </frame>
+                <frame id="5:2539" name="Container" x="0" y="152" width="276" height="122">
+                  <frame id="5:2540" name="Input" x="0" y="0" width="276" height="50">
+                    <frame id="5:2541" name="Container" x="17" y="15" width="242" height="19">
+                      <text id="5:2542" name="Text" x="26.165000915527344" y="0" width="189.6699981689453" height="19" />
+                    </frame>
+                  </frame>
+                  <frame id="5:2543" name="Button" x="0" y="66" width="276" height="56">
+                    <frame id="5:2544" name="Container" x="78.49000549316406" y="17.5" width="16" height="21">
+                      <vector id="5:2545" name="Icon" x="0" y="0" width="16" height="21" />
+                    </frame>
+                    <text id="5:2546" name="Text" x="102.49000549316406" y="16" width="95.0199966430664" height="24" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2547" name="Panel 2b: City Selection" x="0" y="372" width="342" height="228.5">
+              <frame id="5:2548" name="Section" x="33" y="33" width="276" height="162.5">
+                <frame id="5:2549" name="Heading 2" x="0" y="0" width="276" height="56.5">
+                  <text id="5:2550" name="Text" x="45.81999969482422" y="0" width="184.36000061035156" height="24" />
+                  <frame id="5:2551" name="Container" x="16" y="32.5" width="244" height="24">
+                    <text id="5:2552" name="Text" x="1.154998779296875" y="0" width="241.69000244140625" height="24" />
+                  </frame>
+                </frame>
+                <frame id="5:2553" name="Button" x="0" y="72.5" width="276" height="90">
+                  <frame id="5:2554" name="Container" x="25" y="35" width="163.4499969482422" height="20">
+                    <frame id="5:2555" name="Container" x="0" y="0" width="16" height="20">
+                      <vector id="5:2556" name="Icon" x="0" y="0" width="16" height="20" />
+                    </frame>
+                    <frame id="5:2557" name="Container" x="32" y="0" width="131.4499969482422" height="20">
+                      <text id="5:2558" name="Text" x="0" y="0" width="131.4499969482422" height="20" />
+                    </frame>
+                  </frame>
+                  <frame id="5:2559" name="Border" x="211" y="25" width="40" height="40">
+                    <frame id="5:2560" name="Container" x="12" y="12" width="16" height="16">
+                      <vector id="5:2561" name="Icon" x="0" y="0" width="16" height="16" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:2562" name="Footer from SCREEN_30" x="0" y="1113.5" width="390" height="785.4000244140625">
+      <frame id="5:2563" name="Container" x="32" y="49" width="326" height="608.4000244140625">
+        <frame id="5:2564" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:2565" name="Footer Description" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:2566" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:2567" name="Footer Links Grid" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:2568" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2569" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2570" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2571" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2572" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2573" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2574" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2575" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2576" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2577" name="Reklama" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2578" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2579" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2580" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2581" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2582" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2583" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2584" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2585" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2586" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2587" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2588" name="Social Icons / Follow Us Section" x="0" y="416.39996337890625" width="326" height="101">
+          <frame id="5:2589" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:2590" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:2591" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:2592" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:2593" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2595" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:2596" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2598" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:2599" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2601" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:2602" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2604" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:2605" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2607" name="Copyright Area" x="0" y="548.7999267578125" width="326" height="59.599998474121094">
+          <frame id="5:2608" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:2609" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:2610" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+            <text id="5:2611" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:673" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:23" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:675" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:676" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:677" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:678" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:679" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:680" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:681" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:465" name="BottomNavBar" x="0" y="1829" width="390" height="80">
+      <frame id="8:466" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:467" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:468" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:469" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:470" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:471" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:472" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:473" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:474" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:475" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:476" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:477" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:478" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:479" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:480" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:481" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2638" name="Enigma - Kulisy Projektu (Unified UI)" x="2982" y="-2" width="390" height="3136">
+    <frame id="5:2639" name="Main" x="0" y="80" width="390" height="2376">
+      <frame id="5:2640" name="Hero Section" x="0" y="0" width="390" height="444.5">
+        <frame id="5:2641" name="Container" x="0" y="0" width="390" height="443.5">
+          <rounded-rectangle id="5:2642" name="Image" x="0" y="0" width="390" height="443.5" />
+          <rounded-rectangle id="5:2643" name="Gradient" x="0" y="0" width="390" height="443.5" />
+        </frame>
+        <frame id="5:2644" name="Container" x="24" y="48" width="342" height="299.5">
+          <frame id="5:2645" name="Margin" x="97" y="0" width="144.6666717529297" height="39.83333206176758">
+            <frame id="5:2646" name="Container" x="0" y="0" width="144.6666717529297" height="15.833333015441895">
+              <rounded-rectangle id="5:2647" name="Horizontal Divider" x="0" y="7.416666507720947" width="48" height="1" />
+              <frame id="5:2648" name="Container" x="64" y="0" width="16.66666603088379" height="15.833333015441895">
+                <vector id="5:2649" name="Icon" x="0" y="0" width="16.66666603088379" height="15.833333015441895" />
+              </frame>
+              <rounded-rectangle id="5:2650" name="Horizontal Divider" x="96.66666412353516" y="7.416666507720947" width="48" height="1" />
+            </frame>
+          </frame>
+          <frame id="5:2651" name="Heading 1:margin" x="4.329999923706055" y="52" width="333.3399963378906" height="72">
+            <frame id="5:2652" name="Heading 1" x="0" y="0" width="333.3399963378906" height="40">
+              <text id="5:2653" name="Text" x="0" y="0" width="333.3399963378906" height="40" />
+            </frame>
+          </frame>
+          <frame id="5:2654" name="Container" x="0" y="123.125" width="342" height="176">
+            <text id="5:2655" name="Text" x="1.1699999570846558" y="0" width="339.6400146484375" height="176" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2656" name="Process Section" x="0" y="444.5" width="390" height="828.5">
+        <frame id="5:2657" name="Container" x="24" y="64" width="342" height="700.5">
+          <frame id="5:2658" name="Container" x="0" y="0" width="342" height="396">
+            <frame id="5:2659" name="Heading 2" x="0" y="0" width="342" height="36">
+              <text id="5:2660" name="Proces Twórczy" x="0" y="0" width="342" height="36" />
+            </frame>
+            <frame id="5:2661" name="Container" x="0" y="68" width="342" height="208">
+              <text id="5:2662" name="Nasze scenariusze to efekt wielogodzinnych burz mózgów i skrupulatnego planowania. Każdy element krajobrazu, każda znaleziona wskazówka jest starannie umieszczona, by stanowić spójną część większej narracji. Projektujemy zagadki, które wymagają nieszablonowego myślenia i współpracy." x="0" y="0" width="342" height="208" />
+            </frame>
+            <frame id="5:2663" name="List" x="0" y="308" width="342" height="88">
+              <frame id="5:2664" name="Item" x="0" y="0" width="342" height="24">
+                <frame id="5:2665" name="Margin" x="0" y="0" width="20" height="24">
+                  <vector id="5:2666" name="Icon" x="0" y="4" width="20" height="20" />
+                </frame>
+                <text id="5:2667" name="Text" x="36" y="0" width="291.54998779296875" height="24" />
+              </frame>
+              <frame id="5:2668" name="Item" x="0" y="40" width="342" height="48">
+                <frame id="5:2669" name="Margin" x="0" y="0" width="20" height="24">
+                  <vector id="5:2670" name="Icon" x="0" y="4" width="20" height="20" />
+                </frame>
+                <frame id="5:2671" name="Container" x="36" y="0" width="301.9800109863281" height="48">
+                  <text id="5:2672" name="Text" x="0" y="0" width="270.6700134277344" height="48" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2673" name="Overlay+Shadow" x="0" y="444" width="342" height="256.5">
+            <rounded-rectangle id="5:2674" name="Image" x="0" y="0" width="342" height="256.5" />
+            <rounded-rectangle id="5:2675" name="Gradient" x="0" y="0" width="342" height="256.5" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2676" name="Technology Section" x="0" y="1273" width="390" height="768.5">
+        <frame id="5:2677" name="Container" x="24" y="65" width="342" height="639.5">
+          <frame id="5:2678" name="Container" x="0" y="0" width="342" height="335">
+            <frame id="5:2679" name="Heading 2" x="0" y="0" width="342" height="36">
+              <text id="5:2680" name="Technologia i Pasja" x="0" y="0" width="342" height="36" />
+            </frame>
+            <frame id="5:2681" name="Container" x="0" y="68" width="342" height="208">
+              <text id="5:2682" name="Wykorzystujemy nowoczesne narzędzia cyfrowe, rozszerzoną rzeczywistość oraz fizyczne artefakty najwyższej jakości. Nasz zespół pasjonatów nieustannie poszukuje innowacyjnych sposobów na osadzenie niezwykłych historii w tkance codzienności, gwarantując graczom płynne i wciągające doświadczenie." x="0" y="0" width="342" height="208" />
+            </frame>
+            <frame id="5:2683" name="Container" x="0" y="308" width="342" height="27">
+              <frame id="5:2684" name="Container" x="0" y="0" width="30" height="27">
+                <vector id="5:2685" name="Icon" x="0" y="0" width="30" height="18" />
+              </frame>
+              <frame id="5:2686" name="Container" x="46" y="0" width="27" height="27">
+                <vector id="5:2687" name="Icon" x="0" y="0" width="27" height="27" />
+              </frame>
+              <frame id="5:2688" name="Container" x="89" y="0" width="16.5" height="27">
+                <vector id="5:2689" name="Icon" x="0" y="0" width="16.5" height="27" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2690" name="Overlay+Shadow" x="0" y="383" width="342" height="256.5">
+            <rounded-rectangle id="5:2691" name="Image" x="0" y="0" width="342" height="256.5" />
+            <rounded-rectangle id="5:2692" name="Gradient" x="0" y="0" width="342" height="256.5" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2693" name="CTA Section" x="0" y="2041.5" width="390" height="256">
+        <frame id="5:2694" name="Link" x="112.125" y="96" width="165.75" height="64">
+          <text id="5:2695" name="Text" x="42" y="22" width="53.75" height="20" />
+          <frame id="5:2696" name="Container" x="107.75" y="24" width="16" height="16">
+            <vector id="5:2697" name="Icon" x="0" y="0" width="16" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:2698" name="Blue Footer Section" x="0" y="2352" width="390" height="784.4000244140625">
+      <frame id="5:2699" name="Container" x="32" y="48" width="326" height="608.4000244140625">
+        <frame id="5:2700" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:2701" name="Footer Description" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:2702" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:2703" name="Footer Links Grid" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:2704" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2705" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2706" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2707" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2708" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2709" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2710" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2711" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2712" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2713" name="Reklama" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2714" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2715" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2716" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2717" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2718" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2719" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2720" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2721" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2722" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2723" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2724" name="Social Icons / Follow Us Section" x="0" y="416.39996337890625" width="326" height="101">
+          <frame id="5:2725" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:2726" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:2727" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:2728" name="Link - YouTube" x="0" y="0" width="20" height="20">
+              <frame id="5:2729" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2731" name="Link - X (Twitter)" x="44" y="0" width="20" height="20">
+              <frame id="5:2732" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2734" name="Link - Instagram" x="88" y="0" width="20" height="20">
+              <frame id="5:2735" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2737" name="Link - TikTok" x="132" y="0" width="20" height="20">
+              <frame id="5:2738" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2740" name="Link - Facebook" x="176" y="0" width="20" height="20">
+              <frame id="5:2741" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2743" name="Copyright Area" x="0" y="548.7999267578125" width="326" height="59.599998474121094">
+          <frame id="5:2744" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:2745" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:2746" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+            <text id="5:2747" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:683" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:25" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:685" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:686" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:687" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:688" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:689" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:690" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:691" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:483" name="BottomNavBar" x="0" y="3056" width="390" height="80">
+      <frame id="8:484" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:485" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:486" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:487" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:488" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:489" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:490" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:491" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:492" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:493" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:494" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:495" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:496" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:497" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:498" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:499" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2782" name="Enigma - Wybór Tras" x="3407" y="-2" width="390" height="2577">
+    <frame id="5:2783" name="Main Content Canvas" x="0" y="0" width="390" height="1791">
+      <frame id="5:2784" name="Header Section" x="0" y="64" width="390" height="423">
+        <frame id="5:2785" name="Heading 1" x="16" y="32" width="358" height="36">
+          <text id="5:2786" name="Wybierz grę" x="0" y="0" width="358" height="36" />
+        </frame>
+        <frame id="5:2787" name="Container" x="16" y="92" width="358" height="48">
+          <text id="5:2788" name="Wybierz trasę najbliższą Twojej aktualnej lokalizacji." x="0" y="0" width="358" height="48" />
+        </frame>
+        <frame id="5:2789" name="Button" x="16" y="164" width="320" height="50">
+          <frame id="5:2790" name="Container" x="17" y="13" width="234.4499969482422" height="24">
+            <text id="5:2791" name="Text" x="0" y="0" width="234.4499969482422" height="24" />
+          </frame>
+          <frame id="5:2792" name="Container" x="287" y="15" width="16" height="20">
+            <vector id="5:2793" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="5:2794" name="Container" x="16" y="238" width="320" height="15">
+          <rounded-rectangle id="5:2795" name="Horizontal Divider" x="0" y="7" width="127.08999633789062" height="1" />
+          <frame id="5:2796" name="Container" x="143.08999633789062" y="0" width="33.79999923706055" height="15">
+            <text id="5:2797" name="Text" x="0" y="0" width="33.79999923706055" height="15" />
+          </frame>
+          <rounded-rectangle id="5:2798" name="Horizontal Divider" x="192.88999938964844" y="7" width="127.11000061035156" height="1" />
+        </frame>
+        <frame id="5:2799" name="Container" x="16" y="277" width="358" height="40">
+          <text id="5:2800" name="Wybierz z pola wyboru miejscowość, w której się znajdujesz." x="0" y="0" width="358" height="40" />
+        </frame>
+        <frame id="5:2801" name="Container" x="16" y="341" width="320" height="50">
+          <frame id="5:2802" name="Options" x="0" y="0" width="320" height="50">
+            <frame id="5:2803" name="image clip" x="0" y="0" width="320" height="50">
+              <frame id="5:2804" name="image" x="287" y="13" width="24" height="24" />
+            </frame>
+            <frame id="5:2806" name="Container" x="17" y="13" width="286" height="24">
+              <text id="5:2807" name="Warszawa" x="0" y="0" width="286" height="24" />
+            </frame>
+          </frame>
+          <frame id="5:2808" name="Container" x="276" y="0" width="44" height="50">
+            <frame id="5:2809" name="Container" x="16" y="21.299999237060547" width="12" height="7.400000095367432">
+              <vector id="5:2810" name="Icon" x="0" y="0" width="12" height="7.400000095367432" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="5:2811" name="Section - Game Cards List" x="0" y="487" width="390" height="1304">
+        <frame id="5:2812" name="Heading 2:margin" x="16" y="0" width="358" height="56">
+          <frame id="5:2813" name="Heading 2" x="0" y="16" width="358" height="32">
+            <text id="5:2814" name="Najpopularniejsze trasy:" x="0" y="0" width="358" height="32" />
+          </frame>
+        </frame>
+        <frame id="5:2815" name="Card 1" x="16" y="80" width="358" height="376">
+          <frame id="5:2816" name="Container" x="1" y="1" width="356" height="192">
+            <rounded-rectangle id="5:2817" name="Image" x="0" y="0" width="356" height="192" />
+            <rounded-rectangle id="5:2818" name="Gradient" x="0" y="0" width="356" height="192" />
+            <frame id="5:2819" name="Overlay+Border+OverlayBlur" x="218.69332885742188" y="16" width="121.3066635131836" height="34">
+              <frame id="5:2820" name="Container" x="13" y="11.458333969116211" width="11.666666984558105" height="11.083333015441895">
+                <vector id="5:2821" name="Icon" x="0" y="0" width="11.666666984558105" height="11.083333015441895" />
+              </frame>
+              <frame id="5:2822" name="Container" x="28.666667938232422" y="5" width="79.63999938964844" height="24">
+                <text id="5:2823" name="Text" x="0" y="0" width="79.63999938964844" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2824" name="Container" x="1" y="193" width="356" height="182">
+            <frame id="5:2825" name="Heading 2" x="20" y="20" width="316" height="24">
+              <text id="5:2826" name="Tajemnica Zegarmistrza" x="0" y="0" width="316" height="24" />
+            </frame>
+            <frame id="5:2827" name="Container" x="20" y="60" width="316" height="20">
+              <frame id="5:2828" name="Container" x="0" y="0" width="51.130001068115234" height="20">
+                <frame id="5:2829" name="Container" x="0" y="2.5" width="15" height="15">
+                  <vector id="5:2830" name="Icon" x="0" y="0" width="15" height="15" />
+                </frame>
+                <frame id="5:2831" name="Container" x="19" y="0" width="32.130001068115234" height="20">
+                  <text id="5:2832" name="Text" x="0" y="0" width="32.130001068115234" height="20" />
+                </frame>
+              </frame>
+              <frame id="5:2833" name="Container" x="67.1300048828125" y="0" width="58.97999954223633" height="20">
+                <frame id="5:2834" name="Container" x="0" y="1.9375" width="9.75" height="16.125">
+                  <vector id="5:2835" name="Icon" x="0" y="0" width="9.75" height="16.125" />
+                </frame>
+                <frame id="5:2836" name="Container" x="13.75" y="0" width="45.22999954223633" height="20">
+                  <text id="5:2837" name="Text" x="0" y="0" width="45.22999954223633" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2838" name="Button" x="20" y="96" width="316" height="66">
+              <frame id="5:2839" name="Container" x="17" y="23" width="99.66999816894531" height="20">
+                <text id="5:2840" name="Heading 3 → Szczegóły" x="0" y="0" width="99.66999816894531" height="20" />
+              </frame>
+              <frame id="5:2841" name="Border" x="267" y="17" width="32" height="32">
+                <frame id="5:2842" name="Container" x="11.333333969116211" y="11.333333969116211" width="9.333333015441895" height="9.333333015441895">
+                  <vector id="5:2843" name="Icon" x="0" y="0" width="9.333333015441895" height="9.333333015441895" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2844" name="Card 2" x="16" y="480" width="358" height="376">
+          <frame id="5:2845" name="Container" x="1" y="1" width="356" height="192">
+            <rounded-rectangle id="5:2846" name="Image" x="0" y="0" width="356" height="192" />
+            <rounded-rectangle id="5:2847" name="Gradient" x="0" y="0" width="356" height="192" />
+          </frame>
+          <frame id="5:2848" name="Container" x="1" y="193" width="356" height="182">
+            <frame id="5:2849" name="Heading 2" x="20" y="20" width="316" height="24">
+              <text id="5:2850" name="Widmo Ekspresu" x="0" y="0" width="316" height="24" />
+            </frame>
+            <frame id="5:2851" name="Container" x="20" y="60" width="316" height="20">
+              <frame id="5:2852" name="Container" x="0" y="0" width="52.11000061035156" height="20">
+                <frame id="5:2853" name="Container" x="0" y="2.5" width="15" height="15">
+                  <vector id="5:2854" name="Icon" x="0" y="0" width="15" height="15" />
+                </frame>
+                <frame id="5:2855" name="Container" x="19" y="0" width="33.11000061035156" height="20">
+                  <text id="5:2856" name="Text" x="0" y="0" width="33.11000061035156" height="20" />
+                </frame>
+              </frame>
+              <frame id="5:2857" name="Container" x="68.11000061035156" y="0" width="65.13999938964844" height="20">
+                <frame id="5:2858" name="Container" x="0" y="1.9375" width="12" height="16.125">
+                  <vector id="5:2859" name="Icon" x="0" y="0" width="12" height="16.125" />
+                </frame>
+                <frame id="5:2860" name="Container" x="16" y="0" width="49.13999938964844" height="20">
+                  <text id="5:2861" name="Text" x="0" y="0" width="49.13999938964844" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2862" name="Button" x="20" y="96" width="316" height="66">
+              <frame id="5:2863" name="Container" x="17" y="23" width="99.66999816894531" height="20">
+                <text id="5:2864" name="Heading 3 → Szczegóły" x="0" y="0" width="99.66999816894531" height="20" />
+              </frame>
+              <frame id="5:2865" name="Border" x="267" y="17" width="32" height="32">
+                <frame id="5:2866" name="Container" x="11.333333969116211" y="11.333333969116211" width="9.333333015441895" height="9.333333015441895">
+                  <vector id="5:2867" name="Icon" x="0" y="0" width="9.333333015441895" height="9.333333015441895" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2868" name="Card 3" x="16" y="880" width="358" height="376">
+          <frame id="5:2869" name="Container" x="1" y="1" width="356" height="192">
+            <rounded-rectangle id="5:2870" name="Image" x="0" y="0" width="356" height="192" />
+            <rounded-rectangle id="5:2871" name="Gradient" x="0" y="0" width="356" height="192" />
+          </frame>
+          <frame id="5:2872" name="Container" x="1" y="193" width="356" height="182">
+            <frame id="5:2873" name="Heading 2" x="20" y="20" width="316" height="24">
+              <text id="5:2874" name="Archiwum Alchemika" x="0" y="0" width="316" height="24" />
+            </frame>
+            <frame id="5:2875" name="Container" x="20" y="60" width="316" height="20">
+              <frame id="5:2876" name="Container" x="0" y="0" width="48.08000183105469" height="20">
+                <frame id="5:2877" name="Container" x="0" y="2.5" width="15" height="15">
+                  <vector id="5:2878" name="Icon" x="0" y="0" width="15" height="15" />
+                </frame>
+                <frame id="5:2879" name="Container" x="19" y="0" width="29.079999923706055" height="20">
+                  <text id="5:2880" name="Text" x="0" y="0" width="29.079999923706055" height="20" />
+                </frame>
+              </frame>
+              <frame id="5:2881" name="Container" x="64.08000183105469" y="0" width="56.81031036376953" height="20">
+                <frame id="5:2882" name="Container" x="0" y="1.9375" width="10.870312690734863" height="16.125">
+                  <vector id="5:2883" name="Icon" x="0" y="0" width="10.870312690734863" height="16.125" />
+                </frame>
+                <frame id="5:2884" name="Container" x="14.870312690734863" y="0" width="41.939998626708984" height="20">
+                  <text id="5:2885" name="Text" x="0" y="0" width="41.939998626708984" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="5:2886" name="Button" x="20" y="96" width="316" height="66">
+              <frame id="5:2887" name="Container" x="17" y="23" width="99.66999816894531" height="20">
+                <text id="5:2888" name="Heading 3 → Szczegóły" x="0" y="0" width="99.66999816894531" height="20" />
+              </frame>
+              <frame id="5:2889" name="Border" x="267" y="17" width="32" height="32">
+                <frame id="5:2890" name="Container" x="11.333333969116211" y="11.333333969116211" width="9.333333015441895" height="9.333333015441895">
+                  <vector id="5:2891" name="Icon" x="0" y="0" width="9.333333015441895" height="9.333333015441895" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:2892" name="Footer" x="0" y="1791" width="390" height="724">
+      <frame id="5:2893" name="Container" x="32" y="48" width="326" height="608.4000244140625">
+        <frame id="5:2894" name="Enigma Logo" x="0" y="0" width="222.58999633789062" height="40" />
+        <frame id="5:2895" name="Container" x="0" y="71.4000015258789" width="326" height="137">
+          <text id="5:2896" name="Tworzymy historie, w których to Ty grasz główną rolę. Organizujemy nowoczesne gry terenowe, projektujemy immersyjne scenariusze, w tym oparte na aktach kryminalnych, oferując rozrywkę na zupełnie nowym poziomie." x="0" y="0" width="326" height="137" />
+        </frame>
+        <frame id="5:2897" name="Container" x="0" y="239.79998779296875" width="326" height="145.1999969482422">
+          <frame id="5:2898" name="Container" x="0" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2899" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2900" name="ENIGMA" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2901" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2902" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2903" name="O nas" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2904" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2905" name="Inne projekty" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2906" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2907" name="Reklama" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="5:2908" name="Container" x="179" y="16.600000381469727" width="147" height="112">
+            <frame id="5:2909" name="Heading 4" x="0" y="0" width="147" height="20">
+              <text id="5:2910" name="POMOC" x="0" y="0" width="147" height="20" />
+            </frame>
+            <frame id="5:2911" name="List" x="0" y="36" width="147" height="76">
+              <frame id="5:2912" name="Item" x="0" y="0" width="147" height="20">
+                <text id="5:2913" name="Kontakt" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2914" name="Item" x="0" y="28" width="147" height="20">
+                <text id="5:2915" name="Regulamin" x="0" y="0" width="147" height="20" />
+              </frame>
+              <frame id="5:2916" name="Item" x="0" y="56" width="147" height="20">
+                <text id="5:2917" name="Polityka Prywatności" x="0" y="0" width="147" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2918" name="Border" x="0" y="416.39996337890625" width="326" height="101">
+          <frame id="5:2919" name="Margin" x="118.36500549316406" y="25" width="89.2699966430664" height="31">
+            <text id="5:2920" name="Text" x="0" y="0" width="89.2699966430664" height="15" />
+          </frame>
+          <frame id="5:2921" name="Container" x="65" y="56" width="196" height="20">
+            <frame id="5:2922" name="Link" x="0" y="0" width="20" height="20">
+              <frame id="5:2923" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2925" name="Link" x="44" y="0" width="20" height="20">
+              <frame id="5:2926" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2928" name="Link" x="88" y="0" width="20" height="20">
+              <frame id="5:2929" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2931" name="Link" x="132" y="0" width="20" height="20">
+              <frame id="5:2932" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+            <frame id="5:2934" name="Link" x="176" y="0" width="20" height="20">
+              <frame id="5:2935" name="SVG" x="0" y="0" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:2937" name="Container" x="0" y="548.7999267578125" width="326" height="59.599998474121094">
+          <frame id="5:2938" name="Container" x="0" y="16.600000381469727" width="326" height="20">
+            <text id="5:2939" name="Text" x="3.68499755859375" y="0" width="318.6300048828125" height="20" />
+          </frame>
+          <frame id="5:2940" name="Container" x="0" y="44.599998474121094" width="326" height="15">
+            <text id="5:2941" name="Text" x="83.6500015258789" y="0" width="158.6999969482422" height="15" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:693" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:27" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:695" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:696" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:697" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:698" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:699" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:700" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:701" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:501" name="BottomNavBar" x="0" y="2497" width="390" height="80">
+      <frame id="8:502" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:503" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:504" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:505" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:506" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:507" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:508" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:509" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:510" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:511" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:512" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:513" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:514" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:515" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:516" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:517" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:2968" name="Enigma - Zapisz postęp" x="3834" y="-2" width="390" height="862">
+    <frame id="5:2969" name="Main Content Canvas" x="0" y="0" width="390" height="862">
+      <frame id="5:2970" name="Atmospheric Background Image" x="0" y="0" width="390" height="862">
+        <rounded-rectangle id="5:2971" name="Image" x="0" y="0" width="390" height="862" />
+        <rounded-rectangle id="5:2972" name="Gradient" x="0" y="0" width="390" height="862" />
+      </frame>
+      <frame id="5:2973" name="Login / Download Panel" x="16" y="247" width="358" height="352">
+        <frame id="5:2974" name="Overlay+Border+Shadow+OverlayBlur" x="0" y="0" width="358" height="352">
+          <frame id="5:2975" name="Margin" x="162.5" y="33" width="33" height="42">
+            <frame id="5:2976" name="Container" x="0" y="0" width="33" height="18">
+              <vector id="5:2977" name="Icon" x="0" y="0" width="33" height="18" />
+            </frame>
+          </frame>
+          <frame id="5:2978" name="Heading 2:margin" x="100.86499786376953" y="75" width="156.27000427246094" height="40">
+            <frame id="5:2979" name="Heading 2" x="0" y="0" width="156.27000427246094" height="24">
+              <text id="5:2980" name="Text" x="0" y="0" width="156.27000427246094" height="24" />
+            </frame>
+          </frame>
+          <frame id="5:2981" name="Margin" x="33" y="115" width="292" height="88">
+            <frame id="5:2982" name="Container" x="0" y="0" width="292" height="48">
+              <text id="5:2983" name="Text" x="7.480000019073486" y="0" width="277.0400085449219" height="48" />
+            </frame>
+          </frame>
+          <frame id="5:2984" name="Container" x="33" y="203" width="292" height="116">
+            <frame id="5:2985" name="Button" x="0" y="0" width="292" height="48">
+              <text id="5:2986" name="Text" x="48.36499786376953" y="12" width="195.27000427246094" height="24" />
+            </frame>
+            <frame id="5:2987" name="Button" x="0" y="64" width="292" height="52">
+              <text id="5:2988" name="Text" x="83.625" y="14" width="124.75" height="24" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:703" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:29" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:705" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:706" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:707" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:708" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:709" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:710" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:711" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:519" name="BottomNavBar" x="0" y="782" width="390" height="80">
+      <frame id="8:520" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:521" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:522" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:523" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:524" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:525" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:526" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:527" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:528" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:529" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:530" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:531" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:532" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:533" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:534" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:535" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:3028" name="Enigma - Zapisz postęp (Rozszerzony)" x="4260" y="-2" width="390" height="862">
+    <frame id="5:3029" name="Main Content Canvas" x="0" y="0" width="390" height="862">
+      <frame id="5:3030" name="Atmospheric Background Image" x="0" y="0" width="390" height="862">
+        <rounded-rectangle id="5:3031" name="Image" x="0" y="0" width="390" height="862" />
+        <rounded-rectangle id="5:3032" name="Gradient" x="0" y="0" width="390" height="862" />
+      </frame>
+      <frame id="5:3033" name="Login / Download Panel" x="16" y="211" width="358" height="424">
+        <frame id="5:3034" name="Overlay+Border+Shadow+OverlayBlur" x="0" y="0" width="358" height="424">
+          <frame id="5:3035" name="Margin" x="162.5" y="33" width="33" height="42">
+            <frame id="5:3036" name="Container" x="0" y="0" width="33" height="18">
+              <vector id="5:3037" name="Icon" x="0" y="0" width="33" height="18" />
+            </frame>
+          </frame>
+          <frame id="5:3038" name="Heading 2:margin" x="100.86499786376953" y="75" width="156.27000427246094" height="40">
+            <frame id="5:3039" name="Heading 2" x="0" y="0" width="156.27000427246094" height="24">
+              <text id="5:3040" name="Text" x="0" y="0" width="156.27000427246094" height="24" />
+            </frame>
+          </frame>
+          <frame id="5:3041" name="Margin" x="33" y="115" width="292" height="160">
+            <frame id="5:3042" name="Container" x="0" y="0" width="292" height="120">
+              <text id="5:3043" name="Text" x="7.480000019073486" y="0" width="277.0400085449219" height="120" />
+            </frame>
+          </frame>
+          <frame id="5:3044" name="Container" x="33" y="275" width="292" height="116">
+            <frame id="5:3045" name="Button" x="0" y="0" width="292" height="48">
+              <text id="5:3046" name="Text" x="48.36499786376953" y="12" width="195.27000427246094" height="24" />
+            </frame>
+            <frame id="5:3047" name="Button" x="0" y="64" width="292" height="52">
+              <text id="5:3048" name="Text" x="83.625" y="14" width="124.75" height="24" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:713" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:31" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:715" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:716" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:717" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:718" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:719" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:720" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:721" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:537" name="BottomNavBar" x="0" y="782" width="390" height="80">
+      <frame id="8:538" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:539" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:540" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:541" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:542" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:543" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:544" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:545" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:546" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:547" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:548" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:549" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:550" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:551" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:552" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:553" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="5:3088" name="Enigma - Zagadka z Mapą i Postępem" x="4686" y="-2" width="390" height="1499.969970703125">
+    <frame id="5:3089" name="Background+HorizontalBorder" x="0" y="64" width="390" height="71">
+      <frame id="5:3090" name="Container" x="16" y="16" width="358" height="38">
+        <frame id="5:3091" name="Container" x="0" y="0" width="358" height="24">
+          <frame id="5:3092" name="Container" x="0" y="0" width="139.55999755859375" height="24">
+            <text id="5:3093" name="Text" x="0" y="0" width="139.55999755859375" height="24" />
+          </frame>
+          <frame id="5:3094" name="Container" x="221.8000030517578" y="9" width="136.1999969482422" height="15">
+            <text id="5:3095" name="Text" x="0" y="0" width="136.1999969482422" height="15" />
+          </frame>
+        </frame>
+        <frame id="5:3096" name="Background" x="0" y="32" width="358" height="6">
+          <rounded-rectangle id="5:3097" name="Background+Shadow" x="0" y="0" width="35.79999923706055" height="6" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="5:3098" name="Main Content Canvas" x="0" y="135" width="390" height="1364.969970703125">
+      <frame id="5:3099" name="Container" x="16" y="16" width="358" height="1220.969970703125">
+        <frame id="5:3100" name="Puzzle Icon / Decor:margin" x="147" y="0" width="64" height="96">
+          <frame id="5:3101" name="Puzzle Icon / Decor" x="0" y="0" width="64" height="64">
+            <frame id="5:3102" name="Background+Border" x="0" y="0" width="64" height="64">
+              <rounded-rectangle id="5:3103" name="Overlay+Shadow" x="0" y="0" width="64" height="64" />
+              <frame id="5:3104" name="Container" x="17.74117660522461" y="17" width="28.51764678955078" height="30">
+                <vector id="5:3105" name="Icon" x="0" y="0" width="28.51764678955078" height="30" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="5:3106" name="Puzzle Text Card:margin" x="0" y="96" width="358" height="591">
+          <frame id="5:3107" name="Puzzle Text Card" x="0" y="0" width="358" height="551">
+            <frame id="5:3108" name="Heading 1" x="25" y="25" width="308" height="24">
+              <text id="5:3109" name="Text" x="85.75" y="0" width="136.5" height="24" />
+            </frame>
+            <frame id="5:3110" name="Container" x="25" y="73" width="308" height="182">
+              <text id="5:3111" name="Text" x="1.309999942779541" y="-0.5" width="305.3599853515625" height="130" />
+              <text id="5:3112" name="Text" x="37.25" y="129.5" width="143.75" height="26" />
+              <frame id="5:3113" name="Strong" x="109.2699966430664" y="133" width="161.47000122070312" height="45">
+                <text id="5:3114" name="Text" x="71.7300033569336" y="-3.5" width="89.7300033569336" height="26" />
+                <text id="5:3115" name="Text" x="0" y="22.5" width="86.05000305175781" height="26" />
+              </frame>
+              <text id="5:3116" name="Text" x="195.30999755859375" y="155.5" width="3.4100000858306885" height="26" />
+            </frame>
+            <rounded-rectangle id="5:3117" name="Horizontal Divider" x="155" y="279" width="48" height="1" />
+            <frame id="5:3118" name="Container" x="25" y="304" width="308" height="52">
+              <text id="5:3119" name="Text" x="11.774993896484375" y="0" width="284.45001220703125" height="52" />
+            </frame>
+            <frame id="5:3120" name="Background+Border" x="25" y="380" width="308" height="146">
+              <frame id="5:3121" name="Container" x="17" y="25" width="274" height="24">
+                <text id="5:3122" name="Text" x="45.43499755859375" y="0" width="183.1300048828125" height="24" />
+              </frame>
+              <frame id="5:3123" name="Container" x="17" y="57" width="274" height="72">
+                <text id="5:3124" name="Text" x="7.4149932861328125" y="0" width="259.1700134277344" height="72" />
+              </frame>
+            </frame>
+            <rounded-rectangle id="5:3125" name="Subtle background glow" x="45.5" y="1" width="267" height="128" />
+          </frame>
+        </frame>
+        <frame id="5:3126" name="Input Area" x="0" y="687" width="358" height="533.969970703125">
+          <frame id="5:3127" name="Input" x="0" y="0" width="358" height="58">
+            <frame id="5:3128" name="Container" x="17" y="19" width="324" height="19">
+              <text id="5:3129" name="Text" x="38.834999084472656" y="0" width="246.3300018310547" height="19" />
+            </frame>
+          </frame>
+          <frame id="5:3130" name="Button" x="0" y="74" width="358" height="56">
+            <rounded-rectangle id="5:3131" name="Button:shadow" x="0" y="0" width="358" height="56" />
+            <frame id="5:3132" name="Container" x="67.29000091552734" y="16" width="199.4199981689453" height="24">
+              <text id="5:3133" name="Text" x="0" y="0" width="199.4199981689453" height="24" />
+            </frame>
+            <frame id="5:3134" name="Container" x="274.71002197265625" y="20" width="16" height="16">
+              <vector id="5:3135" name="Icon" x="0" y="0" width="16" height="16" />
+            </frame>
+          </frame>
+          <frame id="5:3136" name="Margin" x="0" y="146" width="358" height="387.9700012207031">
+            <frame id="5:3137" name="Container" x="0" y="32" width="358" height="355.9700012207031">
+              <frame id="5:3138" name="Overlay+Border+Shadow" x="0" y="0" width="358" height="332.9700012207031">
+                <frame id="5:3139" name="Mapa lokalizacji" x="1" y="1" width="356" height="330.9700012207031" />
+              </frame>
+              <frame id="5:3140" name="Container" x="0" y="340.9700012207031" width="358" height="15">
+                <text id="5:3141" name="Text" x="111.41999816894531" y="0" width="135.16000366210938" height="15" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:723" name="Header - TopAppBar" x="0" y="0" width="390" height="59">
+      <rounded-rectangle id="28:33" name="image 1" x="24" y="16" width="140" height="27" />
+      <frame id="8:725" name="Container" x="302" y="16" width="64" height="27">
+        <frame id="8:726" name="Button" x="0" y="0" width="16" height="27">
+          <frame id="8:727" name="Container" x="0" y="0" width="16" height="20">
+            <vector id="8:728" name="Icon" x="0" y="0" width="16" height="20" />
+          </frame>
+        </frame>
+        <frame id="8:729" name="Button" x="40" y="2" width="24" height="23">
+          <frame id="8:730" name="Container" x="0" y="0" width="24" height="16">
+            <vector id="8:731" name="Icon" x="0" y="0" width="24" height="16" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="8:555" name="BottomNavBar" x="0" y="1419.9697265625" width="390" height="80">
+      <frame id="8:556" name="Link - Home" x="33.09000015258789" y="22" width="32.779998779296875" height="37">
+        <vector id="8:557" name="Icon" x="8.389999389648438" y="0" width="16" height="18" />
+        <frame id="8:558" name="Container" x="0" y="22" width="32.779998779296875" height="15">
+          <text id="8:559" name="Text" x="0" y="0" width="32.779998779296875" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:560" name="Link - Gry - Active" x="100.06999206542969" y="13.500036239624023" width="53.72999954223633" height="53.99992752075195">
+        <vector id="8:561" name="Icon" x="17.365036010742188" y="8" width="18.999927520751953" height="18.999927520751953" />
+        <frame id="8:562" name="Container" x="16" y="30.999927520751953" width="21.729999542236328" height="15">
+          <text id="8:563" name="Text" x="0" y="0" width="21.729999542236328" height="15" />
+        </frame>
+      </frame>
+      <frame id="8:564" name="Link - Kulisy Projektu" x="188" y="26" width="94.2699966430664" height="29">
+        <vector id="8:565" name="Icon" x="36.1349983215332" y="0" width="22" height="15" />
+        <frame id="8:566" name="Container" x="0" y="19" width="94.2699966430664" height="10">
+          <text id="8:567" name="Text" x="0" y="0" width="94.2699966430664" height="10" />
+        </frame>
+      </frame>
+      <frame id="8:568" name="Link - Profil" x="316.4700012207031" y="23" width="38.189998626708984" height="35">
+        <vector id="8:569" name="Icon" x="11.094999313354492" y="0" width="16" height="16" />
+        <frame id="8:570" name="Container" x="0" y="20" width="38.189998626708984" height="15">
+          <text id="8:571" name="Text" x="0" y="0" width="38.189998626708984" height="15" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.
