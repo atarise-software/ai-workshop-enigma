@@ -32,6 +32,12 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "ENIGMA używa Twojej lokalizacji, żeby znaleźć trasy w miejscowości, w której jesteś."
+        }
       ]
     ],
     "experiments": {
