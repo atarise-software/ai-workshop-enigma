@@ -1,56 +1,63 @@
-# Welcome to your Expo app 👋
+# ENIGMA
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Workshop project from the AI workflows session at The Shire, Kraków (10 November 2026). ENIGMA is a mobile app for city detective games: the player picks a route, unlocks it with a code and solves puzzles on location. This repo contains the core game loop across three screens, built live with Claude Code from the Figma design.
 
-## Get started
+## What you need installed
 
-1. Install dependencies
+1. **Node.js 22 LTS or newer.** Download from [nodejs.org](https://nodejs.org). This also installs `npm`. Check with `node -v`.
+2. **Git.** On macOS run `xcode-select --install`; on Windows install [Git for Windows](https://git-scm.com/download/win).
+3. **Expo Go on your phone.** [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent). This is how you run the app without building it.
+4. **Claude Code**, if you want to keep building with an agent. It needs a Claude Pro or Max plan. Install instructions: [docs.claude.com/en/docs/claude-code](https://docs.claude.com/en/docs/claude-code/overview).
 
-   ```bash
-   npm install
-   ```
+Optional: Xcode with the iOS Simulator (macOS only) or Android Studio with an emulator, if you prefer running the app on your computer instead of your phone.
 
-2. Start the app
+## Run the app
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```sh
+git clone https://github.com/atarise-software/ai-workshop-enigma.git
+cd ai-workshop-enigma
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
+A QR code appears in the terminal. Scan it with the Camera app on iPhone or from inside Expo Go on Android, and ENIGMA opens on your phone. Every change you save shows up on the phone within a second.
 
-### Other setup steps
+Your phone and computer must be on the same Wi-Fi. If the phone cannot connect (common on office and hotel networks), run `npx expo start --tunnel` instead.
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+In the same terminal you can press `i` to open the iOS Simulator, `a` for the Android emulator, or `w` for the browser.
 
-## Learn more
+## Try it
 
-To learn more about developing your project with Expo, look at the following resources:
+- Pick **Tajemnica Zegarmistrza** on the first screen.
+- Unlock it with the code `QUEST`.
+- Puzzle answers, in order: `ZEGAR`, `SUKIENNICE`, `HEJNAŁ`.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+All data is sample data in `src/data/games.ts`. The puzzles take place around Rynek Główny in Kraków.
 
-## Join the community
+## Build with Claude Code
 
-Join our community of developers creating universal apps.
+Open a terminal in the project folder and run `claude`. Write to it in Polish or English, whichever you prefer. The agent reads `CLAUDE.md` first, which describes the project, the rules and what "done" means.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Two project skills come with the repo:
+
+- `/interview` asks you about the product one question at a time, each with a recommended answer, and writes the decisions to `PRODUCT.md`. Use it before starting anything new.
+- `/verify-screens` walks the app in the iOS Simulator, compares each screen with the design and fixes the differences. It needs the [agent-device](https://github.com/callstackincubator/agent-device) MCP server.
+
+The habits from the workshop, in short: keep context in files instead of in the chat, let the agent ask before it builds, describe the problem instead of dictating the solution, make the agent prove that it works, and keep each task small with a fresh session.
+
+## Project structure
+
+| Path | What it is |
+|---|---|
+| `src/app/index.tsx` | Screen 1: route selection |
+| `src/app/access.tsx` | Screen 2: unlock with an access code |
+| `src/app/puzzle.tsx` | Screen 3: puzzle with map and progress |
+| `src/theme.ts` | Colors, fonts and spacing taken from Figma |
+| `src/data/games.ts` | Routes, puzzles and codes |
+| `design/` | Screenshots of the Figma frames and the file structure |
+| `CLAUDE.md` | Instructions for the agent |
+| `.claude/skills/` | The `/interview` and `/verify-screens` skills |
+
+## Before you put real data in
+
+Never give the agent real customer data, personal data, passwords or API keys. Use test data only, keep secrets out of the repository, and do not connect the agent to anything in production.
